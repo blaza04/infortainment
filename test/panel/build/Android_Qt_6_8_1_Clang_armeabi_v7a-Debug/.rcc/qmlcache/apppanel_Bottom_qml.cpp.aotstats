@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 8
+                    }
+                ],
+                "filepath": "/home/adin.n@acsiatech.com/QTWorks/panel/Bottom.qml"
+            }
+        ],
+        "moduleId": "panel(apppanel)"
+    }
+]

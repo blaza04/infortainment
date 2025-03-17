@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/panel">/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/panel</file>
+
+  </qresource>
+</RCC>

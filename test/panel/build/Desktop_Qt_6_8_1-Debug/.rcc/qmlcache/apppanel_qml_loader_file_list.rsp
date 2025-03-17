@@ -1,0 +1,9 @@
+--resource
+/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_panel.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/apppanel_raw_qml_0.qrc
+/qt/qml/panel/Main.qml
+/qt/qml/panel/Right.qml
+/qt/qml/panel/Left.qml
+/qt/qml/panel/Bottom.qml
+/qt/qml/panel/IconButton.qml

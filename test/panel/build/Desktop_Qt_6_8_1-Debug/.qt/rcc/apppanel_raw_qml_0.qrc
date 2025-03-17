@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="/qt/qml/panel/">
+    <file alias="Main.qml">/home/adin.n@acsiatech.com/QTWorks/panel/Main.qml</file>
+    <file alias="Right.qml">/home/adin.n@acsiatech.com/QTWorks/panel/Right.qml</file>
+    <file alias="Left.qml">/home/adin.n@acsiatech.com/QTWorks/panel/Left.qml</file>
+    <file alias="Bottom.qml">/home/adin.n@acsiatech.com/QTWorks/panel/Bottom.qml</file>
+    <file alias="IconButton.qml">/home/adin.n@acsiatech.com/QTWorks/panel/IconButton.qml</file>
+    <file alias="Assets/battery.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/battery.svg</file>
+    <file alias="Assets/headlights.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/headlights.svg</file>
+    <file alias="Assets/tirepressure.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/tirepressure.svg</file>
+    <file alias="Assets/cars/dark/Group.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/Group.png</file>
+    <file alias="Assets/cars/dark/minus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/minus.svg</file>
+    <file alias="Assets/cars/dark/plus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/plus.svg</file>
+    <file alias="Assets/cars/dark/scale.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/scale.svg</file>
+    <file alias="Assets/cars/light/Group.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/Group.png</file>
+    <file alias="Assets/cars/light/minus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/minus.svg</file>
+    <file alias="Assets/cars/light/plus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/plus.svg</file>
+    <file alias="Assets/cars/light/scale.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/scale.svg</file>
+    <file alias="Assets/cars/Vector9.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/Vector9.svg</file>
+    <file alias="Assets/steeringwheel.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/steeringwheel.svg</file>
+    <file alias="Assets/SpeedLimit.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/SpeedLimit.svg</file>
+    <file alias="Assets/camera.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/camera.svg</file>
+    <file alias="Assets/CruiseSetting.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/CruiseSetting.svg</file>
+    <file alias="Assets/microphone.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/microphone.svg</file>
+    <file alias="Assets/power.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/power.svg</file>
+    <file alias="Assets/minus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/minus.svg</file>
+    <file alias="Assets/plus.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/plus.svg</file>
+    <file alias="Assets/Cars/headlights.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/headlights.png</file>
+    <file alias="Assets/Cars/Model3-1.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-1.svg</file>
+    <file alias="Assets/Cars/model3-1_new.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3-1_new.svg</file>
+    <file alias="Assets/Cars/Model3-2.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2.svg</file>
+    <file alias="Assets/Cars/Model3-2_new.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2_new.svg</file>
+    <file alias="Assets/Cars/Model3.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3.svg</file>
+    <file alias="Assets/Cars/model3_new.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3_new.svg</file>
+    <file alias="Assets/hood.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/hood.png</file>
+    <file alias="Assets/caricc.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/caricc.png</file>
+    <file alias="Assets/cloud.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/cloud.png</file>
+    <file alias="Assets/fan.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/fan.svg</file>
+    <file alias="Assets/music.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/music.svg</file>
+    <file alias="Assets/person.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/person.png</file>
+    <file alias="Assets/phone.svg">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/phone.svg</file>
+    <file alias="Assets/seat.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat.png</file>
+    <file alias="Assets/seat1.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat1.png</file>
+    <file alias="Assets/un.png">/home/adin.n@acsiatech.com/QTWorks/panel/Assets/un.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+module panel
+typeinfo apppanel.qmltypes
+prefer :/qt/qml/panel/
+Main 1.0 Main.qml
+Right 1.0 Right.qml
+Left 1.0 Left.qml
+Bottom 1.0 Bottom.qml
+IconButton 1.0 IconButton.qml
+
