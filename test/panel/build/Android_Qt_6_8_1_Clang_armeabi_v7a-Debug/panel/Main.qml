@@ -14,4 +14,7 @@ Window {
     Left{
         id:leftSide
     }
+
+
+    // Separate function to handle the signal
 }

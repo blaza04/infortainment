@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 48,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 196,
                         "errorMessage": "",
                         "functionName": "colorGroup",
                         "line": 20
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 152,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 24
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 23
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 46,
                         "errorMessage": "Cannot access value for name control",
                         "functionName": "source",
                         "line": 28
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 30
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 25,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 35,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "implicitHeight",
                         "line": 35
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "implicitWidth",
                         "line": 36
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "radius",
                         "line": 37
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "color",
                         "line": 38
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "width",
                         "line": 39
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "color",
                         "line": 40
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "type",
                         "line": 43
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 225,
+                        "durationMicroseconds": 658,
                         "errorMessage": "",
                         "functionName": "x",
                         "line": 51
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 212,
+                        "durationMicroseconds": 311,
                         "errorMessage": "",
                         "functionName": "y",
                         "line": 52
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 89,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 53
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 38,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "radius",
                         "line": 54
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 323,
+                        "durationMicroseconds": 440,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 55
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 62
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 33,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
                         "functionName": "to",
                         "line": 65
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 104,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 69

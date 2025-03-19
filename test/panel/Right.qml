@@ -1,6 +1,7 @@
 import QtQuick
 import QtLocation 6.8
 import QtPositioning 6.8
+import QtQuick.Controls
 
 Rectangle{
     signal togglevVsibility()
@@ -28,7 +29,7 @@ Rectangle{
         center: QtPositioning.coordinate(8.52,76.93) // tvm
         zoomLevel: 14
         property geoCoordinate startCentroid
-         activeMapType: map.supportedMapTypes[map.supportedMapTypes.length-3]
+        activeMapType: map.supportedMapTypes[map.supportedMapTypes.length-3]
         PinchHandler {
             id: pinch
             target: null
@@ -173,8 +174,8 @@ Rectangle{
     }
     Rectangle{
         id:showWheather
-        color:"grey"
-        width:parent.width / 2
+        color:"#0E0E0E"
+        width:parent.width / 2.5
         height:parent.height /4
         anchors{
             right:parent.right
@@ -182,12 +183,109 @@ Rectangle{
             margins:10
         }
         radius:20
-        visible:mVisibility
+        visible:rightSide.mVisibility
+
+        Label{
+            id:tempLabel
+            font.bold: Font.Normal
+            text:wheather.Condition
+            font.pixelSize:15
+            color:"white"
+            anchors{
+                top:parent.top
+                left:parent.left
+                leftMargin:10
+            }
+        }
+        Label{
+            id:condition
+            text:wheather.Temperature + "℃"
+            font.family: "Montserrat"
+            font.bold: Font.Normal
+            font.pixelSize:30
+            color:"white"
+            clip:true
+            anchors{
+                top:tempLabel.bottom
+                left:parent.left
+               // right:wheather_image.left
+                leftMargin:10
+            }
+        }
+        Label{
+            id:feelslike
+            font.family: "Montserrat"
+            font.bold: Font.Normal
+            text:"Feels like: "+wheather.Feelslike+ "℃"
+            font.pixelSize:15
+            color:"white"
+            anchors{
+                top:condition.bottom
+                left:parent.left
+                bottom:place.top  //
+                leftMargin:10
+            }
+        }
+
+        Label{
+            id:place
+            font.family: "Montserrat"
+            font.bold: Font.Normal
+            text:wheather.Location
+            font.pixelSize:15
+            color:"white"
+            anchors{
+                leftMargin:10
+                bottomMargin:5
+                left:parent.left
+                bottom:parent.bottom
+
+            }
+        }
+
+        Image{
+            id:wheather_image
+            anchors{
+                left:condition.right
+                right:parent.right
+                top:parent.top
+                bottom:place.top
+            }
+            source:"Assets/weather/" + wheather.Icon
+            fillMode:Image.PreserveAspectFit
+        }
+        ParallelAnimation{
+            id:parallelAnim
+            NumberAnimation {
+                id:yTransitionAnimation
+                target: wheather_image
+                properties: "y"
+                from:50
+                to:10
+                duration: 1500
+            }
+
+            NumberAnimation {
+                id:opacityAnimation
+                target: wheather_image
+                properties: "opacity"
+                from:0.0
+                to:1.0
+                duration: 1500
+            }
+        }
+        Timer {
+            interval: 2000
+            running: true
+            repeat: true
+            onTriggered: parallelAnim.restart()
+        }
+
     }
     Rectangle{
         id:showMusic
-        color:"grey"
-        width:parent.width / 2
+        color:"#0E0E0E"
+        width:parent.width / 1.8
         height:parent.height /4
         anchors{
             left:parent.left

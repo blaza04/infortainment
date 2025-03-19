@@ -1160,7 +1160,15 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/apppanel_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "apppanel_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/home/adin.n@acsiatech.com/QTWorks/panel/wheather.h",
+			"MU",
+			"EWIEGA46WW/moc_wheather.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/apppanel_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/apppanel_autogen/mocs_compilation.cpp",
@@ -1254,7 +1262,8 @@
 	"SETTINGS_FILE" : "/home/adin.n@acsiatech.com/QTWorks/panel/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/apppanel_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/adin.n@acsiatech.com/QTWorks/panel/main.cpp", "MU", null ]
+		[ "/home/adin.n@acsiatech.com/QTWorks/panel/main.cpp", "MU", null ],
+		[ "/home/adin.n@acsiatech.com/QTWorks/panel/wheather.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

@@ -99,6 +99,14 @@ build CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt
   OBJECT_DIR = CMakeFiles/apppanel.dir
   OBJECT_FILE_DIR = CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc
 
+build CMakeFiles/apppanel.dir/wheather.cpp.o: CXX_COMPILER__apppanel_unscanned_Debug /home/adin.n@acsiatech.com/QTWorks/panel/wheather.cpp || cmake_object_order_depends_target_apppanel
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -Dapppanel_EXPORTS
+  DEP_FILE = CMakeFiles/apppanel.dir/wheather.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG   -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -fvisibility=default -fcolor-diagnostics -pthread
+  INCLUDES = -I/home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/apppanel_autogen/include -I/home/adin.n@acsiatech.com/QTWorks/panel -isystem /home/6.8.1/android_armv7/include/QtQml/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQml/6.8.1/QtQml -isystem /home/6.8.1/android_armv7/include/QtCore/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtCore/6.8.1/QtCore -isystem /home/6.8.1/android_armv7/include/QtCore -isystem /home/6.8.1/android_armv7/include -isystem /home/6.8.1/android_armv7/mkspecs/android-clang -isystem /home/6.8.1/android_armv7/include/QtQml -isystem /home/6.8.1/android_armv7/include/QtQmlIntegration -isystem /home/6.8.1/android_armv7/include/QtNetwork -isystem /home/6.8.1/android_armv7/include/QtQuick -isystem /home/6.8.1/android_armv7/include/QtGui -isystem /home/6.8.1/android_armv7/include/QtQmlMeta -isystem /home/6.8.1/android_armv7/include/QtQmlModels -isystem /home/6.8.1/android_armv7/include/QtQmlWorkerScript -isystem /home/6.8.1/android_armv7/include/QtOpenGL
+  OBJECT_DIR = CMakeFiles/apppanel.dir
+  OBJECT_FILE_DIR = CMakeFiles/apppanel.dir
+
 build CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_qmlcache_loader.cpp.o: CXX_COMPILER__apppanel_unscanned_Debug /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_qmlcache_loader.cpp || cmake_object_order_depends_target_apppanel
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -Dapppanel_EXPORTS
   DEP_FILE = CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_qmlcache_loader.cpp.o.d
@@ -163,7 +171,7 @@ build CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt
 #############################################
 # Link the shared module libapppanel_armeabi-v7a.so
 
-build libapppanel_armeabi-v7a.so: CXX_MODULE_LIBRARY_LINKER__apppanel_Debug CMakeFiles/apppanel.dir/apppanel_autogen/mocs_compilation.cpp.o CMakeFiles/apppanel.dir/main.cpp.o CMakeFiles/apppanel.dir/apppanel_qmltyperegistrations.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_qmake_panel.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_qmlcache_loader.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Main_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Right_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Left_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Bottom_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_IconButton_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_apppanel_raw_qml_0.cpp.o | /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so || apppanel_autogen apppanel_autogen_timestamp_deps apppanel_tooling
+build libapppanel_armeabi-v7a.so: CXX_MODULE_LIBRARY_LINKER__apppanel_Debug CMakeFiles/apppanel.dir/apppanel_autogen/mocs_compilation.cpp.o CMakeFiles/apppanel.dir/main.cpp.o CMakeFiles/apppanel.dir/apppanel_qmltyperegistrations.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_qmake_panel.cpp.o CMakeFiles/apppanel.dir/wheather.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_qmlcache_loader.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Main_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Right_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Left_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_Bottom_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/apppanel_IconButton_qml.cpp.o CMakeFiles/apppanel.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_apppanel_raw_qml_0.cpp.o | /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so || apppanel_autogen apppanel_autogen_timestamp_deps apppanel_tooling
   LANGUAGE_COMPILE_FLAGS = -DQT_QML_DEBUG   -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info
   LINK_FLAGS = -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--gc-sections -Qunused-arguments -Wl,--no-undefined
   LINK_LIBRARIES = /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so  -llog  -pthread  /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so  /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so   -latomic -lm
@@ -225,7 +233,7 @@ build all_qmllint_module: phony apppanel_qmllint_module
 #############################################
 # Utility command for apppanel_tooling
 
-build apppanel_tooling: phony panel/Main.qml panel/Right.qml panel/Left.qml panel/Bottom.qml panel/IconButton.qml panel/Assets/battery.svg panel/Assets/headlights.svg panel/Assets/tirepressure.svg panel/Assets/cars/dark/Group.png panel/Assets/cars/dark/minus.svg panel/Assets/cars/dark/plus.svg panel/Assets/cars/dark/scale.svg panel/Assets/cars/light/Group.png panel/Assets/cars/light/minus.svg panel/Assets/cars/light/plus.svg panel/Assets/cars/light/scale.svg panel/Assets/cars/Vector9.svg panel/Assets/steeringwheel.svg panel/Assets/SpeedLimit.svg panel/Assets/camera.svg panel/Assets/CruiseSetting.svg panel/Assets/microphone.svg panel/Assets/power.svg panel/Assets/minus.svg panel/Assets/plus.svg panel/Assets/Cars/headlights.png panel/Assets/Cars/Model3-1.svg panel/Assets/Cars/model3-1_new.svg panel/Assets/Cars/Model3-2.svg panel/Assets/Cars/Model3-2_new.svg panel/Assets/Cars/Model3.svg panel/Assets/Cars/model3_new.svg panel/Assets/hood.png
+build apppanel_tooling: phony panel/Main.qml panel/Right.qml panel/Left.qml panel/Bottom.qml panel/IconButton.qml panel/Assets/battery.svg panel/Assets/headlights.svg panel/Assets/tirepressure.svg panel/Assets/cars/dark/Group.png panel/Assets/cars/dark/minus.svg panel/Assets/cars/dark/plus.svg panel/Assets/cars/dark/scale.svg panel/Assets/cars/light/Group.png panel/Assets/cars/light/minus.svg panel/Assets/cars/light/plus.svg panel/Assets/cars/light/scale.svg panel/Assets/cars/Vector9.svg panel/Assets/steeringwheel.svg panel/Assets/SpeedLimit.svg panel/Assets/camera.svg panel/Assets/CruiseSetting.svg panel/Assets/microphone.svg panel/Assets/power.svg panel/Assets/minus.svg panel/Assets/plus.svg panel/Assets/Cars/headlights.png panel/Assets/Cars/Model3-1.svg panel/Assets/Cars/model3-1_new.svg panel/Assets/Cars/Model3-2.svg panel/Assets/Cars/Model3-2_new.svg panel/Assets/Cars/Model3.svg panel/Assets/Cars/model3_new.svg panel/Assets/hood.png panel/Assets/caricc.png panel/Assets/cloud.png panel/Assets/fan.svg panel/Assets/music.svg panel/Assets/person.png panel/Assets/phone.svg panel/Assets/seat.png panel/Assets/seat1.png panel/Assets/un.png panel/Assets/weather-overcast.png panel/Assets/weather-sunny.png panel/Assets/weather/64x64/day/113.png panel/Assets/weather/64x64/day/116.png panel/Assets/weather/64x64/day/119.png panel/Assets/weather/64x64/day/122.png panel/Assets/weather/64x64/day/143.png panel/Assets/weather/64x64/day/176.png panel/Assets/weather/64x64/day/179.png panel/Assets/weather/64x64/day/182.png panel/Assets/weather/64x64/day/185.png panel/Assets/weather/64x64/day/200.png panel/Assets/weather/64x64/day/227.png panel/Assets/weather/64x64/day/230.png panel/Assets/weather/64x64/day/248.png panel/Assets/weather/64x64/day/260.png panel/Assets/weather/64x64/day/263.png panel/Assets/weather/64x64/day/266.png panel/Assets/weather/64x64/day/281.png panel/Assets/weather/64x64/day/284.png panel/Assets/weather/64x64/day/293.png panel/Assets/weather/64x64/day/296.png panel/Assets/weather/64x64/day/299.png panel/Assets/weather/64x64/day/302.png panel/Assets/weather/64x64/day/305.png panel/Assets/weather/64x64/day/308.png panel/Assets/weather/64x64/day/311.png panel/Assets/weather/64x64/day/314.png panel/Assets/weather/64x64/day/317.png panel/Assets/weather/64x64/day/320.png panel/Assets/weather/64x64/day/323.png panel/Assets/weather/64x64/day/326.png panel/Assets/weather/64x64/day/329.png panel/Assets/weather/64x64/day/332.png panel/Assets/weather/64x64/day/335.png panel/Assets/weather/64x64/day/338.png panel/Assets/weather/64x64/day/350.png panel/Assets/weather/64x64/day/353.png panel/Assets/weather/64x64/day/356.png panel/Assets/weather/64x64/day/359.png panel/Assets/weather/64x64/day/362.png panel/Assets/weather/64x64/day/365.png panel/Assets/weather/64x64/day/368.png panel/Assets/weather/64x64/day/371.png panel/Assets/weather/64x64/day/374.png panel/Assets/weather/64x64/day/377.png panel/Assets/weather/64x64/day/386.png panel/Assets/weather/64x64/day/389.png panel/Assets/weather/64x64/day/392.png panel/Assets/weather/64x64/day/395.png panel/Assets/weather/64x64/night/113.png panel/Assets/weather/64x64/night/116.png panel/Assets/weather/64x64/night/119.png panel/Assets/weather/64x64/night/122.png panel/Assets/weather/64x64/night/143.png panel/Assets/weather/64x64/night/176.png panel/Assets/weather/64x64/night/179.png panel/Assets/weather/64x64/night/182.png panel/Assets/weather/64x64/night/185.png panel/Assets/weather/64x64/night/200.png panel/Assets/weather/64x64/night/227.png panel/Assets/weather/64x64/night/230.png panel/Assets/weather/64x64/night/248.png panel/Assets/weather/64x64/night/260.png panel/Assets/weather/64x64/night/263.png panel/Assets/weather/64x64/night/266.png panel/Assets/weather/64x64/night/281.png panel/Assets/weather/64x64/night/284.png panel/Assets/weather/64x64/night/293.png panel/Assets/weather/64x64/night/296.png panel/Assets/weather/64x64/night/299.png panel/Assets/weather/64x64/night/302.png panel/Assets/weather/64x64/night/305.png panel/Assets/weather/64x64/night/308.png panel/Assets/weather/64x64/night/311.png panel/Assets/weather/64x64/night/314.png panel/Assets/weather/64x64/night/317.png panel/Assets/weather/64x64/night/320.png panel/Assets/weather/64x64/night/323.png panel/Assets/weather/64x64/night/326.png panel/Assets/weather/64x64/night/329.png panel/Assets/weather/64x64/night/332.png panel/Assets/weather/64x64/night/335.png panel/Assets/weather/64x64/night/338.png panel/Assets/weather/64x64/night/350.png panel/Assets/weather/64x64/night/353.png panel/Assets/weather/64x64/night/356.png panel/Assets/weather/64x64/night/359.png panel/Assets/weather/64x64/night/362.png panel/Assets/weather/64x64/night/365.png panel/Assets/weather/64x64/night/368.png panel/Assets/weather/64x64/night/371.png panel/Assets/weather/64x64/night/374.png panel/Assets/weather/64x64/night/377.png panel/Assets/weather/64x64/night/386.png panel/Assets/weather/64x64/night/389.png panel/Assets/weather/64x64/night/392.png panel/Assets/weather/64x64/night/395.png
 
 
 #############################################
@@ -450,7 +458,7 @@ build .rcc/qmlcache/apppanel_IconButton_qml.cpp .rcc/qmlcache/apppanel_IconButto
 #############################################
 # Custom command for .qt/rcc/qrc_apppanel_raw_qml_0.cpp
 
-build .qt/rcc/qrc_apppanel_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_apppanel_raw_qml_0.cpp: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Main.qml /home/adin.n@acsiatech.com/QTWorks/panel/Right.qml /home/adin.n@acsiatech.com/QTWorks/panel/Left.qml /home/adin.n@acsiatech.com/QTWorks/panel/Bottom.qml /home/adin.n@acsiatech.com/QTWorks/panel/IconButton.qml /home/adin.n@acsiatech.com/QTWorks/panel/Assets/battery.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/headlights.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/tirepressure.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/Group.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/scale.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/Group.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/scale.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/Vector9.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/steeringwheel.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/SpeedLimit.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/camera.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/CruiseSetting.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/microphone.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/power.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/headlights.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-1.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3-1_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/hood.png .qt/rcc/apppanel_raw_qml_0.qrc /home/6.8.1/gcc_64/libexec/rcc || apppanel_autogen apppanel_autogen_timestamp_deps apppanel_tooling
+build .qt/rcc/qrc_apppanel_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_apppanel_raw_qml_0.cpp: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Main.qml /home/adin.n@acsiatech.com/QTWorks/panel/Right.qml /home/adin.n@acsiatech.com/QTWorks/panel/Left.qml /home/adin.n@acsiatech.com/QTWorks/panel/Bottom.qml /home/adin.n@acsiatech.com/QTWorks/panel/IconButton.qml /home/adin.n@acsiatech.com/QTWorks/panel/Assets/battery.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/headlights.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/tirepressure.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/Group.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/dark/scale.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/Group.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/light/scale.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cars/Vector9.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/steeringwheel.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/SpeedLimit.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/camera.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/CruiseSetting.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/microphone.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/power.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/minus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/plus.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/headlights.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-1.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3-1_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3-2_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/Model3.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/Cars/model3_new.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/hood.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/caricc.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cloud.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/fan.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/music.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/person.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/phone.svg /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat1.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/un.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-overcast.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-sunny.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/113.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/116.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/119.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/122.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/143.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/176.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/179.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/182.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/185.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/200.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/227.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/230.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/248.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/260.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/263.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/266.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/281.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/284.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/293.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/296.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/299.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/302.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/305.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/308.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/311.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/314.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/317.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/320.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/323.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/326.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/329.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/332.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/335.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/338.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/350.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/353.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/356.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/359.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/362.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/365.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/368.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/371.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/374.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/377.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/386.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/389.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/392.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/395.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/113.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/116.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/119.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/122.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/143.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/176.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/179.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/182.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/185.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/200.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/227.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/230.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/248.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/260.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/263.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/266.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/281.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/284.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/293.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/296.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/299.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/302.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/305.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/308.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/311.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/314.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/317.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/320.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/323.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/326.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/329.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/332.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/335.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/338.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/350.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/353.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/356.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/359.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/362.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/365.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/368.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/371.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/374.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/377.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/386.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/389.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/392.png /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/395.png .qt/rcc/apppanel_raw_qml_0.qrc /home/6.8.1/gcc_64/libexec/rcc || apppanel_autogen apppanel_autogen_timestamp_deps apppanel_tooling
   COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug && /home/6.8.1/gcc_64/libexec/rcc --output /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_apppanel_raw_qml_0.cpp --name apppanel_raw_qml_0 /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/apppanel_raw_qml_0.qrc --no-zstd
   DESC = Running rcc for resource apppanel_raw_qml_0
   restat = 1
@@ -797,6 +805,969 @@ build panel/Assets/Cars/model3_new.svg | ${cmake_ninja_workdir}panel/Assets/Cars
 build panel/Assets/hood.png | ${cmake_ninja_workdir}panel/Assets/hood.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/hood.png
   COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/hood.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/hood.png
   DESC = Copying Assets/hood.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/hood.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/caricc.png
+
+build panel/Assets/caricc.png | ${cmake_ninja_workdir}panel/Assets/caricc.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/caricc.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/caricc.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/caricc.png
+  DESC = Copying Assets/caricc.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/caricc.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/cloud.png
+
+build panel/Assets/cloud.png | ${cmake_ninja_workdir}panel/Assets/cloud.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cloud.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/cloud.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/cloud.png
+  DESC = Copying Assets/cloud.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/cloud.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/fan.svg
+
+build panel/Assets/fan.svg | ${cmake_ninja_workdir}panel/Assets/fan.svg: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/fan.svg
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/fan.svg /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/fan.svg
+  DESC = Copying Assets/fan.svg to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/fan.svg
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/music.svg
+
+build panel/Assets/music.svg | ${cmake_ninja_workdir}panel/Assets/music.svg: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/music.svg
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/music.svg /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/music.svg
+  DESC = Copying Assets/music.svg to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/music.svg
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/person.png
+
+build panel/Assets/person.png | ${cmake_ninja_workdir}panel/Assets/person.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/person.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/person.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/person.png
+  DESC = Copying Assets/person.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/person.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/phone.svg
+
+build panel/Assets/phone.svg | ${cmake_ninja_workdir}panel/Assets/phone.svg: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/phone.svg
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/phone.svg /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/phone.svg
+  DESC = Copying Assets/phone.svg to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/phone.svg
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/seat.png
+
+build panel/Assets/seat.png | ${cmake_ninja_workdir}panel/Assets/seat.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/seat.png
+  DESC = Copying Assets/seat.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/seat.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/seat1.png
+
+build panel/Assets/seat1.png | ${cmake_ninja_workdir}panel/Assets/seat1.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat1.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/seat1.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/seat1.png
+  DESC = Copying Assets/seat1.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/seat1.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/un.png
+
+build panel/Assets/un.png | ${cmake_ninja_workdir}panel/Assets/un.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/un.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/un.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/un.png
+  DESC = Copying Assets/un.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/un.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather-overcast.png
+
+build panel/Assets/weather-overcast.png | ${cmake_ninja_workdir}panel/Assets/weather-overcast.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-overcast.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-overcast.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather-overcast.png
+  DESC = Copying Assets/weather-overcast.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather-overcast.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather-sunny.png
+
+build panel/Assets/weather-sunny.png | ${cmake_ninja_workdir}panel/Assets/weather-sunny.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-sunny.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather-sunny.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather-sunny.png
+  DESC = Copying Assets/weather-sunny.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather-sunny.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/113.png
+
+build panel/Assets/weather/64x64/day/113.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/113.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/113.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/113.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/113.png
+  DESC = Copying Assets/weather/64x64/day/113.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/113.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/116.png
+
+build panel/Assets/weather/64x64/day/116.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/116.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/116.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/116.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/116.png
+  DESC = Copying Assets/weather/64x64/day/116.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/116.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/119.png
+
+build panel/Assets/weather/64x64/day/119.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/119.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/119.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/119.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/119.png
+  DESC = Copying Assets/weather/64x64/day/119.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/119.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/122.png
+
+build panel/Assets/weather/64x64/day/122.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/122.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/122.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/122.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/122.png
+  DESC = Copying Assets/weather/64x64/day/122.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/122.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/143.png
+
+build panel/Assets/weather/64x64/day/143.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/143.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/143.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/143.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/143.png
+  DESC = Copying Assets/weather/64x64/day/143.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/143.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/176.png
+
+build panel/Assets/weather/64x64/day/176.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/176.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/176.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/176.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/176.png
+  DESC = Copying Assets/weather/64x64/day/176.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/176.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/179.png
+
+build panel/Assets/weather/64x64/day/179.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/179.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/179.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/179.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/179.png
+  DESC = Copying Assets/weather/64x64/day/179.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/179.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/182.png
+
+build panel/Assets/weather/64x64/day/182.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/182.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/182.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/182.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/182.png
+  DESC = Copying Assets/weather/64x64/day/182.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/182.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/185.png
+
+build panel/Assets/weather/64x64/day/185.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/185.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/185.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/185.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/185.png
+  DESC = Copying Assets/weather/64x64/day/185.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/185.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/200.png
+
+build panel/Assets/weather/64x64/day/200.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/200.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/200.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/200.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/200.png
+  DESC = Copying Assets/weather/64x64/day/200.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/200.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/227.png
+
+build panel/Assets/weather/64x64/day/227.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/227.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/227.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/227.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/227.png
+  DESC = Copying Assets/weather/64x64/day/227.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/227.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/230.png
+
+build panel/Assets/weather/64x64/day/230.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/230.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/230.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/230.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/230.png
+  DESC = Copying Assets/weather/64x64/day/230.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/230.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/248.png
+
+build panel/Assets/weather/64x64/day/248.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/248.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/248.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/248.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/248.png
+  DESC = Copying Assets/weather/64x64/day/248.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/248.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/260.png
+
+build panel/Assets/weather/64x64/day/260.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/260.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/260.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/260.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/260.png
+  DESC = Copying Assets/weather/64x64/day/260.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/260.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/263.png
+
+build panel/Assets/weather/64x64/day/263.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/263.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/263.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/263.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/263.png
+  DESC = Copying Assets/weather/64x64/day/263.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/263.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/266.png
+
+build panel/Assets/weather/64x64/day/266.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/266.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/266.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/266.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/266.png
+  DESC = Copying Assets/weather/64x64/day/266.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/266.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/281.png
+
+build panel/Assets/weather/64x64/day/281.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/281.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/281.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/281.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/281.png
+  DESC = Copying Assets/weather/64x64/day/281.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/281.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/284.png
+
+build panel/Assets/weather/64x64/day/284.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/284.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/284.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/284.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/284.png
+  DESC = Copying Assets/weather/64x64/day/284.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/284.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/293.png
+
+build panel/Assets/weather/64x64/day/293.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/293.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/293.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/293.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/293.png
+  DESC = Copying Assets/weather/64x64/day/293.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/293.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/296.png
+
+build panel/Assets/weather/64x64/day/296.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/296.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/296.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/296.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/296.png
+  DESC = Copying Assets/weather/64x64/day/296.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/296.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/299.png
+
+build panel/Assets/weather/64x64/day/299.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/299.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/299.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/299.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/299.png
+  DESC = Copying Assets/weather/64x64/day/299.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/299.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/302.png
+
+build panel/Assets/weather/64x64/day/302.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/302.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/302.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/302.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/302.png
+  DESC = Copying Assets/weather/64x64/day/302.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/302.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/305.png
+
+build panel/Assets/weather/64x64/day/305.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/305.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/305.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/305.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/305.png
+  DESC = Copying Assets/weather/64x64/day/305.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/305.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/308.png
+
+build panel/Assets/weather/64x64/day/308.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/308.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/308.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/308.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/308.png
+  DESC = Copying Assets/weather/64x64/day/308.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/308.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/311.png
+
+build panel/Assets/weather/64x64/day/311.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/311.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/311.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/311.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/311.png
+  DESC = Copying Assets/weather/64x64/day/311.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/311.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/314.png
+
+build panel/Assets/weather/64x64/day/314.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/314.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/314.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/314.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/314.png
+  DESC = Copying Assets/weather/64x64/day/314.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/314.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/317.png
+
+build panel/Assets/weather/64x64/day/317.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/317.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/317.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/317.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/317.png
+  DESC = Copying Assets/weather/64x64/day/317.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/317.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/320.png
+
+build panel/Assets/weather/64x64/day/320.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/320.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/320.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/320.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/320.png
+  DESC = Copying Assets/weather/64x64/day/320.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/320.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/323.png
+
+build panel/Assets/weather/64x64/day/323.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/323.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/323.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/323.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/323.png
+  DESC = Copying Assets/weather/64x64/day/323.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/323.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/326.png
+
+build panel/Assets/weather/64x64/day/326.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/326.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/326.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/326.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/326.png
+  DESC = Copying Assets/weather/64x64/day/326.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/326.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/329.png
+
+build panel/Assets/weather/64x64/day/329.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/329.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/329.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/329.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/329.png
+  DESC = Copying Assets/weather/64x64/day/329.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/329.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/332.png
+
+build panel/Assets/weather/64x64/day/332.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/332.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/332.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/332.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/332.png
+  DESC = Copying Assets/weather/64x64/day/332.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/332.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/335.png
+
+build panel/Assets/weather/64x64/day/335.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/335.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/335.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/335.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/335.png
+  DESC = Copying Assets/weather/64x64/day/335.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/335.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/338.png
+
+build panel/Assets/weather/64x64/day/338.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/338.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/338.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/338.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/338.png
+  DESC = Copying Assets/weather/64x64/day/338.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/338.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/350.png
+
+build panel/Assets/weather/64x64/day/350.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/350.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/350.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/350.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/350.png
+  DESC = Copying Assets/weather/64x64/day/350.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/350.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/353.png
+
+build panel/Assets/weather/64x64/day/353.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/353.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/353.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/353.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/353.png
+  DESC = Copying Assets/weather/64x64/day/353.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/353.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/356.png
+
+build panel/Assets/weather/64x64/day/356.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/356.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/356.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/356.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/356.png
+  DESC = Copying Assets/weather/64x64/day/356.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/356.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/359.png
+
+build panel/Assets/weather/64x64/day/359.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/359.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/359.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/359.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/359.png
+  DESC = Copying Assets/weather/64x64/day/359.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/359.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/362.png
+
+build panel/Assets/weather/64x64/day/362.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/362.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/362.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/362.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/362.png
+  DESC = Copying Assets/weather/64x64/day/362.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/362.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/365.png
+
+build panel/Assets/weather/64x64/day/365.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/365.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/365.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/365.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/365.png
+  DESC = Copying Assets/weather/64x64/day/365.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/365.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/368.png
+
+build panel/Assets/weather/64x64/day/368.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/368.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/368.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/368.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/368.png
+  DESC = Copying Assets/weather/64x64/day/368.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/368.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/371.png
+
+build panel/Assets/weather/64x64/day/371.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/371.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/371.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/371.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/371.png
+  DESC = Copying Assets/weather/64x64/day/371.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/371.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/374.png
+
+build panel/Assets/weather/64x64/day/374.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/374.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/374.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/374.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/374.png
+  DESC = Copying Assets/weather/64x64/day/374.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/374.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/377.png
+
+build panel/Assets/weather/64x64/day/377.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/377.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/377.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/377.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/377.png
+  DESC = Copying Assets/weather/64x64/day/377.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/377.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/386.png
+
+build panel/Assets/weather/64x64/day/386.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/386.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/386.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/386.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/386.png
+  DESC = Copying Assets/weather/64x64/day/386.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/386.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/389.png
+
+build panel/Assets/weather/64x64/day/389.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/389.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/389.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/389.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/389.png
+  DESC = Copying Assets/weather/64x64/day/389.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/389.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/392.png
+
+build panel/Assets/weather/64x64/day/392.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/392.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/392.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/392.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/392.png
+  DESC = Copying Assets/weather/64x64/day/392.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/392.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/day/395.png
+
+build panel/Assets/weather/64x64/day/395.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/day/395.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/395.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/day/395.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/395.png
+  DESC = Copying Assets/weather/64x64/day/395.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/day/395.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/113.png
+
+build panel/Assets/weather/64x64/night/113.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/113.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/113.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/113.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/113.png
+  DESC = Copying Assets/weather/64x64/night/113.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/113.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/116.png
+
+build panel/Assets/weather/64x64/night/116.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/116.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/116.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/116.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/116.png
+  DESC = Copying Assets/weather/64x64/night/116.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/116.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/119.png
+
+build panel/Assets/weather/64x64/night/119.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/119.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/119.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/119.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/119.png
+  DESC = Copying Assets/weather/64x64/night/119.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/119.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/122.png
+
+build panel/Assets/weather/64x64/night/122.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/122.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/122.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/122.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/122.png
+  DESC = Copying Assets/weather/64x64/night/122.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/122.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/143.png
+
+build panel/Assets/weather/64x64/night/143.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/143.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/143.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/143.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/143.png
+  DESC = Copying Assets/weather/64x64/night/143.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/143.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/176.png
+
+build panel/Assets/weather/64x64/night/176.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/176.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/176.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/176.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/176.png
+  DESC = Copying Assets/weather/64x64/night/176.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/176.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/179.png
+
+build panel/Assets/weather/64x64/night/179.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/179.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/179.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/179.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/179.png
+  DESC = Copying Assets/weather/64x64/night/179.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/179.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/182.png
+
+build panel/Assets/weather/64x64/night/182.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/182.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/182.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/182.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/182.png
+  DESC = Copying Assets/weather/64x64/night/182.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/182.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/185.png
+
+build panel/Assets/weather/64x64/night/185.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/185.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/185.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/185.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/185.png
+  DESC = Copying Assets/weather/64x64/night/185.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/185.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/200.png
+
+build panel/Assets/weather/64x64/night/200.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/200.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/200.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/200.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/200.png
+  DESC = Copying Assets/weather/64x64/night/200.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/200.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/227.png
+
+build panel/Assets/weather/64x64/night/227.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/227.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/227.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/227.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/227.png
+  DESC = Copying Assets/weather/64x64/night/227.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/227.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/230.png
+
+build panel/Assets/weather/64x64/night/230.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/230.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/230.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/230.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/230.png
+  DESC = Copying Assets/weather/64x64/night/230.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/230.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/248.png
+
+build panel/Assets/weather/64x64/night/248.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/248.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/248.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/248.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/248.png
+  DESC = Copying Assets/weather/64x64/night/248.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/248.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/260.png
+
+build panel/Assets/weather/64x64/night/260.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/260.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/260.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/260.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/260.png
+  DESC = Copying Assets/weather/64x64/night/260.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/260.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/263.png
+
+build panel/Assets/weather/64x64/night/263.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/263.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/263.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/263.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/263.png
+  DESC = Copying Assets/weather/64x64/night/263.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/263.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/266.png
+
+build panel/Assets/weather/64x64/night/266.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/266.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/266.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/266.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/266.png
+  DESC = Copying Assets/weather/64x64/night/266.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/266.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/281.png
+
+build panel/Assets/weather/64x64/night/281.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/281.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/281.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/281.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/281.png
+  DESC = Copying Assets/weather/64x64/night/281.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/281.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/284.png
+
+build panel/Assets/weather/64x64/night/284.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/284.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/284.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/284.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/284.png
+  DESC = Copying Assets/weather/64x64/night/284.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/284.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/293.png
+
+build panel/Assets/weather/64x64/night/293.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/293.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/293.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/293.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/293.png
+  DESC = Copying Assets/weather/64x64/night/293.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/293.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/296.png
+
+build panel/Assets/weather/64x64/night/296.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/296.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/296.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/296.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/296.png
+  DESC = Copying Assets/weather/64x64/night/296.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/296.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/299.png
+
+build panel/Assets/weather/64x64/night/299.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/299.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/299.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/299.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/299.png
+  DESC = Copying Assets/weather/64x64/night/299.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/299.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/302.png
+
+build panel/Assets/weather/64x64/night/302.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/302.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/302.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/302.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/302.png
+  DESC = Copying Assets/weather/64x64/night/302.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/302.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/305.png
+
+build panel/Assets/weather/64x64/night/305.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/305.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/305.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/305.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/305.png
+  DESC = Copying Assets/weather/64x64/night/305.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/305.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/308.png
+
+build panel/Assets/weather/64x64/night/308.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/308.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/308.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/308.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/308.png
+  DESC = Copying Assets/weather/64x64/night/308.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/308.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/311.png
+
+build panel/Assets/weather/64x64/night/311.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/311.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/311.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/311.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/311.png
+  DESC = Copying Assets/weather/64x64/night/311.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/311.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/314.png
+
+build panel/Assets/weather/64x64/night/314.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/314.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/314.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/314.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/314.png
+  DESC = Copying Assets/weather/64x64/night/314.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/314.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/317.png
+
+build panel/Assets/weather/64x64/night/317.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/317.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/317.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/317.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/317.png
+  DESC = Copying Assets/weather/64x64/night/317.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/317.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/320.png
+
+build panel/Assets/weather/64x64/night/320.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/320.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/320.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/320.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/320.png
+  DESC = Copying Assets/weather/64x64/night/320.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/320.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/323.png
+
+build panel/Assets/weather/64x64/night/323.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/323.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/323.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/323.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/323.png
+  DESC = Copying Assets/weather/64x64/night/323.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/323.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/326.png
+
+build panel/Assets/weather/64x64/night/326.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/326.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/326.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/326.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/326.png
+  DESC = Copying Assets/weather/64x64/night/326.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/326.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/329.png
+
+build panel/Assets/weather/64x64/night/329.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/329.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/329.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/329.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/329.png
+  DESC = Copying Assets/weather/64x64/night/329.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/329.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/332.png
+
+build panel/Assets/weather/64x64/night/332.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/332.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/332.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/332.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/332.png
+  DESC = Copying Assets/weather/64x64/night/332.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/332.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/335.png
+
+build panel/Assets/weather/64x64/night/335.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/335.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/335.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/335.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/335.png
+  DESC = Copying Assets/weather/64x64/night/335.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/335.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/338.png
+
+build panel/Assets/weather/64x64/night/338.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/338.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/338.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/338.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/338.png
+  DESC = Copying Assets/weather/64x64/night/338.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/338.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/350.png
+
+build panel/Assets/weather/64x64/night/350.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/350.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/350.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/350.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/350.png
+  DESC = Copying Assets/weather/64x64/night/350.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/350.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/353.png
+
+build panel/Assets/weather/64x64/night/353.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/353.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/353.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/353.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/353.png
+  DESC = Copying Assets/weather/64x64/night/353.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/353.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/356.png
+
+build panel/Assets/weather/64x64/night/356.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/356.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/356.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/356.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/356.png
+  DESC = Copying Assets/weather/64x64/night/356.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/356.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/359.png
+
+build panel/Assets/weather/64x64/night/359.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/359.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/359.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/359.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/359.png
+  DESC = Copying Assets/weather/64x64/night/359.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/359.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/362.png
+
+build panel/Assets/weather/64x64/night/362.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/362.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/362.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/362.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/362.png
+  DESC = Copying Assets/weather/64x64/night/362.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/362.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/365.png
+
+build panel/Assets/weather/64x64/night/365.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/365.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/365.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/365.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/365.png
+  DESC = Copying Assets/weather/64x64/night/365.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/365.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/368.png
+
+build panel/Assets/weather/64x64/night/368.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/368.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/368.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/368.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/368.png
+  DESC = Copying Assets/weather/64x64/night/368.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/368.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/371.png
+
+build panel/Assets/weather/64x64/night/371.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/371.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/371.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/371.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/371.png
+  DESC = Copying Assets/weather/64x64/night/371.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/371.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/374.png
+
+build panel/Assets/weather/64x64/night/374.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/374.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/374.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/374.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/374.png
+  DESC = Copying Assets/weather/64x64/night/374.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/374.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/377.png
+
+build panel/Assets/weather/64x64/night/377.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/377.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/377.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/377.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/377.png
+  DESC = Copying Assets/weather/64x64/night/377.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/377.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/386.png
+
+build panel/Assets/weather/64x64/night/386.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/386.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/386.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/386.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/386.png
+  DESC = Copying Assets/weather/64x64/night/386.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/386.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/389.png
+
+build panel/Assets/weather/64x64/night/389.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/389.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/389.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/389.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/389.png
+  DESC = Copying Assets/weather/64x64/night/389.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/389.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/392.png
+
+build panel/Assets/weather/64x64/night/392.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/392.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/392.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/392.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/392.png
+  DESC = Copying Assets/weather/64x64/night/392.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/392.png
+  restat = 1
+
+
+#############################################
+# Custom command for panel/Assets/weather/64x64/night/395.png
+
+build panel/Assets/weather/64x64/night/395.png | ${cmake_ninja_workdir}panel/Assets/weather/64x64/night/395.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/395.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/panel && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/panel/Assets/weather/64x64/night/395.png /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/395.png
+  DESC = Copying Assets/weather/64x64/night/395.png to /home/adin.n@acsiatech.com/QTWorks/panel/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/panel/Assets/weather/64x64/night/395.png
   restat = 1
 
 

@@ -6,74 +6,74 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 13,
-                        "durationMicroseconds": 194,
+                        "durationMicroseconds": 242,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 16
+                        "line": 17
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 232,
+                        "durationMicroseconds": 224,
                         "errorMessage": "Cannot access value for name botttomSide",
                         "functionName": "bottom",
-                        "line": 12
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 15,
-                        "durationMicroseconds": 141,
-                        "errorMessage": "",
-                        "functionName": "right",
                         "line": 13
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 13,
-                        "durationMicroseconds": 137,
+                        "column": 15,
+                        "durationMicroseconds": 156,
                         "errorMessage": "",
-                        "functionName": "top",
+                        "functionName": "right",
                         "line": 14
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 80,
                         "errorMessage": "",
                         "functionName": "plugin",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "",
+                        "functionName": "center",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 470,
+                        "errorMessage": "Cannot generate efficient code for access to 'length' property of sequence wrapped in non-sequence",
+                        "functionName": "activeMapType",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "fill",
                         "line": 27
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 204,
-                        "errorMessage": "",
-                        "functionName": "center",
-                        "line": 28
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 25,
-                        "durationMicroseconds": 424,
-                        "errorMessage": "Cannot generate efficient code for access to 'length' property of sequence wrapped in non-sequence",
-                        "functionName": "activeMapType",
-                        "line": 31
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 64,
-                        "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 26
-                    },
-                    {
-                        "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 549,
+                        "durationMicroseconds": 640,
                         "errorMessage": "",
                         "functionName": "onActiveChanged",
-                        "line": 35
+                        "line": 36
                     },
                     {
                         "codegenSuccessfull": false,
@@ -81,15 +81,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "onScaleChanged",
-                        "line": 38
+                        "line": 39
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 86,
+                        "durationMicroseconds": 51,
                         "errorMessage": "",
                         "functionName": "onScaleChanged",
-                        "line": 38
+                        "line": 39
                     },
                     {
                         "codegenSuccessfull": false,
@@ -97,39 +97,39 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "onRotationChanged",
-                        "line": 42
+                        "line": 43
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "onRotationChanged",
-                        "line": 42
+                        "line": 43
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 87,
+                        "durationMicroseconds": 132,
                         "errorMessage": "",
                         "functionName": "grabPermissions",
-                        "line": 46
+                        "line": 47
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 717,
+                        "durationMicroseconds": 1512,
                         "errorMessage": "",
                         "functionName": "acceptedDevices",
-                        "line": 53
+                        "line": 54
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "rotationScale",
-                        "line": 56
+                        "line": 57
                     },
                     {
                         "codegenSuccessfull": false,
@@ -137,391 +137,599 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "onTranslationChanged",
-                        "line": 62
+                        "line": 63
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 85,
                         "errorMessage": "",
                         "functionName": "onTranslationChanged",
-                        "line": 62
+                        "line": 63
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 186,
+                        "durationMicroseconds": 332,
                         "errorMessage": "",
                         "functionName": "enabled",
-                        "line": 65
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 101,
-                        "errorMessage": "",
-                        "functionName": "sequence",
                         "line": 66
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 26,
-                        "durationMicroseconds": 326,
+                        "column": 23,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
-                        "functionName": "onActivated",
+                        "functionName": "sequence",
                         "line": 67
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 22,
-                        "durationMicroseconds": 191,
+                        "column": 26,
+                        "durationMicroseconds": 727,
                         "errorMessage": "",
-                        "functionName": "enabled",
-                        "line": 70
+                        "functionName": "onActivated",
+                        "line": 68
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 101,
+                        "column": 22,
+                        "durationMicroseconds": 640,
                         "errorMessage": "",
-                        "functionName": "sequence",
+                        "functionName": "enabled",
                         "line": 71
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "sequence",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 274,
+                        "durationMicroseconds": 547,
                         "errorMessage": "",
                         "functionName": "onActivated",
-                        "line": 72
+                        "line": 73
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 182,
+                        "durationMicroseconds": 236,
                         "errorMessage": "Cannot access value for name handle",
                         "functionName": "source",
-                        "line": 77
+                        "line": 78
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 83
+                        "line": 84
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 181,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 79
+                        "line": 80
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 128,
+                        "durationMicroseconds": 161,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 80
+                        "line": 81
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 210,
+                        "durationMicroseconds": 281,
                         "errorMessage": "Cannot access value for name handle",
                         "functionName": "onClicked",
-                        "line": 87
+                        "line": 88
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 86
+                        "line": 87
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 15,
-                        "durationMicroseconds": 231,
+                        "durationMicroseconds": 441,
                         "errorMessage": "Cannot access value for name handle",
                         "functionName": "text",
-                        "line": 95
+                        "line": 96
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 156,
+                        "durationMicroseconds": 190,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 98
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 130,
-                        "errorMessage": "",
-                        "functionName": "top",
                         "line": 99
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 114
+                        "line": 115
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 127,
+                        "durationMicroseconds": 162,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 109
+                        "line": 110
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 127,
+                        "durationMicroseconds": 174,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 110
+                        "line": 111
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 14,
-                        "durationMicroseconds": 215,
+                        "durationMicroseconds": 255,
                         "errorMessage": "Cannot access value for name handle",
                         "functionName": "text",
-                        "line": 118
+                        "line": 119
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 165,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 121
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 130,
-                        "errorMessage": "",
-                        "functionName": "top",
                         "line": 122
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 15,
-                        "durationMicroseconds": 219,
+                        "column": 17,
+                        "durationMicroseconds": 158,
                         "errorMessage": "",
-                        "functionName": "width",
-                        "line": 137
+                        "functionName": "top",
+                        "line": 123
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 210,
+                        "column": 15,
+                        "durationMicroseconds": 263,
                         "errorMessage": "",
-                        "functionName": "height",
+                        "functionName": "width",
                         "line": 138
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 131,
+                        "column": 16,
+                        "durationMicroseconds": 270,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 132
+                        "functionName": "height",
+                        "line": 139
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 133,
+                        "column": 18,
+                        "durationMicroseconds": 157,
                         "errorMessage": "",
-                        "functionName": "top",
+                        "functionName": "left",
                         "line": 133
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 98,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 147
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 153
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 186,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 181
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
                         "durationMicroseconds": 149,
                         "errorMessage": "",
-                        "functionName": "height",
-                        "line": 148
+                        "functionName": "bottom",
+                        "line": 182
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 22,
-                        "durationMicroseconds": 131,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 143
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 191
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 32,
-                        "durationMicroseconds": 125,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 144
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bold.",
+                        "functionName": "bold",
+                        "line": 190
                     },
                     {
-                        "codegenSuccessfull": true,
+                        "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 154,
-                        "errorMessage": "",
-                        "functionName": "visible",
-                        "line": 152
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on top.",
+                        "functionName": "top",
+                        "line": 195
                     },
                     {
-                        "codegenSuccessfull": true,
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on left.",
+                        "functionName": "left",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bold.",
+                        "functionName": "bold",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on top.",
+                        "functionName": "top",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on left.",
+                        "functionName": "left",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bold.",
+                        "functionName": "bold",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on top.",
+                        "functionName": "top",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on left.",
+                        "functionName": "left",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bottom.",
+                        "functionName": "bottom",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bold.",
+                        "functionName": "bold",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on left.",
+                        "functionName": "left",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on bottom.",
+                        "functionName": "bottom",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 159,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 159
+                        "durationMicroseconds": 256,
+                        "errorMessage": "Cannot access value for name wheather",
+                        "functionName": "source",
+                        "line": 254
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 128,
+                        "durationMicroseconds": 103,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 156
+                        "functionName": "fillMode",
+                        "line": 255
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 32,
-                        "durationMicroseconds": 126,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 157
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 31,
-                        "durationMicroseconds": 87,
-                        "errorMessage": "",
-                        "functionName": "verticalAlignment",
-                        "line": 171
-                    },
-                    {
-                        "codegenSuccessfull": true,
+                        "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 128,
-                        "errorMessage": "",
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: condition",
                         "functionName": "left",
-                        "line": 165
+                        "line": 249
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 151,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 166
+                        "line": 250
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 123,
+                        "durationMicroseconds": 149,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 167
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 138,
-                        "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 168
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 15,
-                        "durationMicroseconds": 192,
-                        "errorMessage": "",
-                        "functionName": "width",
-                        "line": 177
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 211,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 178
+                        "line": 251
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 17,
-                        "durationMicroseconds": 30,
-                        "errorMessage": "Cannot access value for name mVisibility",
-                        "functionName": "visible",
-                        "line": 185
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 131,
-                        "errorMessage": "",
-                        "functionName": "right",
-                        "line": 180
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 126,
-                        "errorMessage": "",
+                        "column": 24,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: place",
                         "functionName": "bottom",
-                        "line": 181
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 261
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 281
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 167,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 190
+                        "line": 288
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 163,
+                        "durationMicroseconds": 183,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 191
+                        "line": 289
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 133,
+                        "durationMicroseconds": 168,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 193
+                        "line": 291
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 128,
+                        "durationMicroseconds": 145,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 194
+                        "line": 292
                     }
                 ],
                 "filepath": "/home/adin.n@acsiatech.com/QTWorks/panel/Right.qml"

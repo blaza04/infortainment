@@ -1,5 +1,8 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QQmlContext>
+
+#include "wheather.h"
 
 int main(int argc, char *argv[])
 {
@@ -14,5 +17,9 @@ int main(int argc, char *argv[])
         Qt::QueuedConnection);
     engine.loadFromModule("panel", "Main");
 
+    QQmlContext *context(engine.rootContext());
+
+    wheather wheather;
+    context->setContextProperty("wheather",&wheather);
     return app.exec();
 }
