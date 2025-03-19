@@ -123,6 +123,14 @@ build CMakeFiles/appinfortainment.dir/audio.cpp.o: CXX_COMPILER__appinfortainmen
   OBJECT_DIR = CMakeFiles/appinfortainment.dir
   OBJECT_FILE_DIR = CMakeFiles/appinfortainment.dir
 
+build CMakeFiles/appinfortainment.dir/wheather.cpp.o: CXX_COMPILER__appinfortainment_unscanned_Debug /home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.cpp || cmake_object_order_depends_target_appinfortainment
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_LOCATION_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_POSITIONINGQUICK_LIB -DQT_POSITIONING_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKSHAPES_LIB -DQT_QUICK_LIB -Dappinfortainment_EXPORTS
+  DEP_FILE = CMakeFiles/appinfortainment.dir/wheather.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG   -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -fvisibility=default -fcolor-diagnostics -pthread
+  INCLUDES = -I/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/appinfortainment_autogen/include -I/home/adin.n@acsiatech.com/QTWorks/infortainment -isystem /home/6.8.1/android_armv7/include/QtQml/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQml/6.8.1/QtQml -isystem /home/6.8.1/android_armv7/include/QtCore/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtCore/6.8.1/QtCore -isystem /home/6.8.1/android_armv7/include/QtCore -isystem /home/6.8.1/android_armv7/include -isystem /home/6.8.1/android_armv7/mkspecs/android-clang -isystem /home/6.8.1/android_armv7/include/QtQml -isystem /home/6.8.1/android_armv7/include/QtQmlIntegration -isystem /home/6.8.1/android_armv7/include/QtNetwork -isystem /home/6.8.1/android_armv7/include/QtQuick -isystem /home/6.8.1/android_armv7/include/QtGui -isystem /home/6.8.1/android_armv7/include/QtQmlMeta -isystem /home/6.8.1/android_armv7/include/QtQmlModels -isystem /home/6.8.1/android_armv7/include/QtQmlWorkerScript -isystem /home/6.8.1/android_armv7/include/QtOpenGL -isystem /home/6.8.1/android_armv7/include/QtLocation -isystem /home/6.8.1/android_armv7/include/QtPositioning -isystem /home/6.8.1/android_armv7/include/QtPositioningQuick -isystem /home/6.8.1/android_armv7/include/QtQuickShapes -isystem /home/6.8.1/android_armv7/include/QtQuickShapes/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQuickShapes/6.8.1/QtQuickShapes -isystem /home/6.8.1/android_armv7/include/QtGui/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtGui/6.8.1/QtGui -isystem /home/6.8.1/android_armv7/include/QtQuick/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQuick/6.8.1/QtQuick -isystem /home/6.8.1/android_armv7/include/QtQmlModels/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQmlModels/6.8.1/QtQmlModels -isystem /home/6.8.1/android_armv7/include/QtQmlMeta/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQmlMeta/6.8.1/QtQmlMeta -isystem /home/6.8.1/android_armv7/include/QtQmlWorkerScript/6.8.1 -isystem /home/6.8.1/android_armv7/include/QtQmlWorkerScript/6.8.1/QtQmlWorkerScript
+  OBJECT_DIR = CMakeFiles/appinfortainment.dir
+  OBJECT_FILE_DIR = CMakeFiles/appinfortainment.dir
+
 build CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_qmlcache_loader.cpp.o: CXX_COMPILER__appinfortainment_unscanned_Debug /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_qmlcache_loader.cpp || cmake_object_order_depends_target_appinfortainment
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_LOCATION_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_POSITIONINGQUICK_LIB -DQT_POSITIONING_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKSHAPES_LIB -DQT_QUICK_LIB -Dappinfortainment_EXPORTS
   DEP_FILE = CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_qmlcache_loader.cpp.o.d
@@ -203,7 +211,7 @@ build CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-D
 #############################################
 # Link the shared module libappinfortainment_armeabi-v7a.so
 
-build libappinfortainment_armeabi-v7a.so: CXX_MODULE_LIBRARY_LINKER__appinfortainment_Debug CMakeFiles/appinfortainment.dir/appinfortainment_autogen/mocs_compilation.cpp.o CMakeFiles/appinfortainment.dir/main.cpp.o CMakeFiles/appinfortainment.dir/appinfortainment_qmltyperegistrations.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_qmake_infortainment.cpp.o CMakeFiles/appinfortainment.dir/system.cpp.o CMakeFiles/appinfortainment.dir/controller.cpp.o CMakeFiles/appinfortainment.dir/audio.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_qmlcache_loader.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Main_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Bottom_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Right_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Left_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Controllers_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_AudioControl_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_IconButton_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_appinfortainment_raw_qml_0.cpp.o | /home/6.8.1/android_armv7/lib/libQt6Location_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6PositioningQuick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Positioning_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QuickShapes_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so || appinfortainment_autogen appinfortainment_autogen_timestamp_deps appinfortainment_tooling
+build libappinfortainment_armeabi-v7a.so: CXX_MODULE_LIBRARY_LINKER__appinfortainment_Debug CMakeFiles/appinfortainment.dir/appinfortainment_autogen/mocs_compilation.cpp.o CMakeFiles/appinfortainment.dir/main.cpp.o CMakeFiles/appinfortainment.dir/appinfortainment_qmltyperegistrations.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_qmake_infortainment.cpp.o CMakeFiles/appinfortainment.dir/system.cpp.o CMakeFiles/appinfortainment.dir/controller.cpp.o CMakeFiles/appinfortainment.dir/audio.cpp.o CMakeFiles/appinfortainment.dir/wheather.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_qmlcache_loader.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Main_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Bottom_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Right_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Left_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_Controllers_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_AudioControl_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.rcc/qmlcache/appinfortainment_IconButton_qml.cpp.o CMakeFiles/appinfortainment.dir/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_appinfortainment_raw_qml_0.cpp.o | /home/6.8.1/android_armv7/lib/libQt6Location_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6PositioningQuick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Positioning_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QuickShapes_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so || appinfortainment_autogen appinfortainment_autogen_timestamp_deps appinfortainment_tooling
   LANGUAGE_COMPILE_FLAGS = -DQT_QML_DEBUG   -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info
   LINK_FLAGS = -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--gc-sections -Qunused-arguments -Wl,--no-undefined
   LINK_LIBRARIES = /home/6.8.1/android_armv7/lib/libQt6Location_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6PositioningQuick_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Positioning_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QuickShapes_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Quick_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6OpenGL_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Gui_armeabi-v7a.so  /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libGLESv2.so  /home/adin.n@acsiatech.com/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/23/libEGL.so  /home/6.8.1/android_armv7/lib/libQt6QmlMeta_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QmlModels_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6QmlWorkerScript_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Qml_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Network_armeabi-v7a.so  /home/6.8.1/android_armv7/lib/libQt6Core_armeabi-v7a.so  -llog  -pthread   -latomic -lm
@@ -265,7 +273,7 @@ build all_qmllint_module: phony appinfortainment_qmllint_module
 #############################################
 # Utility command for appinfortainment_tooling
 
-build appinfortainment_tooling: phony infortainment/Main.qml infortainment/Bottom.qml infortainment/Right.qml infortainment/Left.qml infortainment/Controllers.qml infortainment/AudioControl.qml infortainment/IconButton.qml infortainment/Assets/lock.png infortainment/Assets/car.png infortainment/Assets/unlockk.png infortainment/Assets/caricon.png infortainment/Assets/un.png infortainment/Assets/caricc.png infortainment/Assets/person.png infortainment/Assets/search.png infortainment/Assets/vollow.png infortainment/Assets/volmid.png infortainment/Assets/mute.png infortainment/Assets/newcar.jpg infortainment/Assets/fan.svg infortainment/Assets/inflow.png infortainment/Assets/outflow.png infortainment/Assets/seat.png infortainment/Assets/seat1.png infortainment/Assets/defrost.svg infortainment/Assets/heater.svg infortainment/Assets/music.svg infortainment/Assets/cloud.png infortainment/Assets/phone.svg infortainment/Assets/battery.svg infortainment/Assets/headlights.svg infortainment/Assets/tirepressure.svg infortainment/Assets/camera.svg infortainment/Assets/CruiseSetting.svg infortainment/Assets/microphone.svg infortainment/Assets/minus.svg infortainment/Assets/plus.svg infortainment/Assets/power.svg infortainment/Assets/SpeedLimit.svg infortainment/Assets/steeringwheel.svg infortainment/Assets/cars/dark/Group.png infortainment/Assets/cars/dark/minus.svg infortainment/Assets/cars/dark/plus.svg infortainment/Assets/cars/dark/scale.svg infortainment/Assets/cars/light/Group.png infortainment/Assets/cars/light/minus.svg infortainment/Assets/cars/light/plus.svg infortainment/Assets/cars/light/scale.svg infortainment/Assets/cars/Vector9.svg infortainment/Assets/Cars/headlights.png infortainment/Assets/Cars/Model3-1.svg infortainment/Assets/Cars/model3-1_new.svg infortainment/Assets/Cars/Model3-2.svg infortainment/Assets/Cars/Model3-2_new.svg infortainment/Assets/Cars/Model3.svg infortainment/Assets/Cars/model3_new.svg infortainment/Assets/hood.png infortainment/Assets/power_dark.png infortainment/Assets/trunk.png
+build appinfortainment_tooling: phony infortainment/Main.qml infortainment/Bottom.qml infortainment/Right.qml infortainment/Left.qml infortainment/Controllers.qml infortainment/AudioControl.qml infortainment/IconButton.qml infortainment/Assets/lock.png infortainment/Assets/car.png infortainment/Assets/unlockk.png infortainment/Assets/caricon.png infortainment/Assets/un.png infortainment/Assets/caricc.png infortainment/Assets/person.png infortainment/Assets/search.png infortainment/Assets/vollow.png infortainment/Assets/volmid.png infortainment/Assets/mute.png infortainment/Assets/newcar.jpg infortainment/Assets/fan.svg infortainment/Assets/inflow.png infortainment/Assets/outflow.png infortainment/Assets/seat.png infortainment/Assets/seat1.png infortainment/Assets/defrost.svg infortainment/Assets/heater.svg infortainment/Assets/music.svg infortainment/Assets/cloud.png infortainment/Assets/phone.svg infortainment/Assets/battery.svg infortainment/Assets/headlights.svg infortainment/Assets/tirepressure.svg infortainment/Assets/camera.svg infortainment/Assets/CruiseSetting.svg infortainment/Assets/microphone.svg infortainment/Assets/minus.svg infortainment/Assets/plus.svg infortainment/Assets/power.svg infortainment/Assets/SpeedLimit.svg infortainment/Assets/steeringwheel.svg infortainment/Assets/cars/dark/Group.png infortainment/Assets/cars/dark/minus.svg infortainment/Assets/cars/dark/plus.svg infortainment/Assets/cars/dark/scale.svg infortainment/Assets/cars/light/Group.png infortainment/Assets/cars/light/minus.svg infortainment/Assets/cars/light/plus.svg infortainment/Assets/cars/light/scale.svg infortainment/Assets/cars/Vector9.svg infortainment/Assets/Cars/headlights.png infortainment/Assets/Cars/Model3-1.svg infortainment/Assets/Cars/model3-1_new.svg infortainment/Assets/Cars/Model3-2.svg infortainment/Assets/Cars/Model3-2_new.svg infortainment/Assets/Cars/Model3.svg infortainment/Assets/Cars/model3_new.svg infortainment/Assets/hood.png infortainment/Assets/power_dark.png infortainment/Assets/trunk.png infortainment/Assets/weather/64x64/day/113.png infortainment/Assets/weather/64x64/day/116.png infortainment/Assets/weather/64x64/day/119.png infortainment/Assets/weather/64x64/day/122.png infortainment/Assets/weather/64x64/day/143.png infortainment/Assets/weather/64x64/day/176.png infortainment/Assets/weather/64x64/day/179.png infortainment/Assets/weather/64x64/day/182.png infortainment/Assets/weather/64x64/day/185.png infortainment/Assets/weather/64x64/day/200.png infortainment/Assets/weather/64x64/day/227.png infortainment/Assets/weather/64x64/day/230.png infortainment/Assets/weather/64x64/day/248.png infortainment/Assets/weather/64x64/day/260.png infortainment/Assets/weather/64x64/day/263.png infortainment/Assets/weather/64x64/day/266.png infortainment/Assets/weather/64x64/day/281.png infortainment/Assets/weather/64x64/day/284.png infortainment/Assets/weather/64x64/day/293.png infortainment/Assets/weather/64x64/day/296.png infortainment/Assets/weather/64x64/day/299.png infortainment/Assets/weather/64x64/day/302.png infortainment/Assets/weather/64x64/day/305.png infortainment/Assets/weather/64x64/day/308.png infortainment/Assets/weather/64x64/day/311.png infortainment/Assets/weather/64x64/day/314.png infortainment/Assets/weather/64x64/day/317.png infortainment/Assets/weather/64x64/day/320.png infortainment/Assets/weather/64x64/day/323.png infortainment/Assets/weather/64x64/day/326.png infortainment/Assets/weather/64x64/day/329.png infortainment/Assets/weather/64x64/day/332.png infortainment/Assets/weather/64x64/day/335.png infortainment/Assets/weather/64x64/day/338.png infortainment/Assets/weather/64x64/day/350.png infortainment/Assets/weather/64x64/day/353.png infortainment/Assets/weather/64x64/day/356.png infortainment/Assets/weather/64x64/day/359.png infortainment/Assets/weather/64x64/day/362.png infortainment/Assets/weather/64x64/day/365.png infortainment/Assets/weather/64x64/day/368.png infortainment/Assets/weather/64x64/day/371.png infortainment/Assets/weather/64x64/day/374.png infortainment/Assets/weather/64x64/day/377.png infortainment/Assets/weather/64x64/day/386.png infortainment/Assets/weather/64x64/day/389.png infortainment/Assets/weather/64x64/day/392.png infortainment/Assets/weather/64x64/day/395.png infortainment/Assets/weather/64x64/night/113.png infortainment/Assets/weather/64x64/night/116.png infortainment/Assets/weather/64x64/night/119.png infortainment/Assets/weather/64x64/night/122.png infortainment/Assets/weather/64x64/night/143.png infortainment/Assets/weather/64x64/night/176.png infortainment/Assets/weather/64x64/night/179.png infortainment/Assets/weather/64x64/night/182.png infortainment/Assets/weather/64x64/night/185.png infortainment/Assets/weather/64x64/night/200.png infortainment/Assets/weather/64x64/night/227.png infortainment/Assets/weather/64x64/night/230.png infortainment/Assets/weather/64x64/night/248.png infortainment/Assets/weather/64x64/night/260.png infortainment/Assets/weather/64x64/night/263.png infortainment/Assets/weather/64x64/night/266.png infortainment/Assets/weather/64x64/night/281.png infortainment/Assets/weather/64x64/night/284.png infortainment/Assets/weather/64x64/night/293.png infortainment/Assets/weather/64x64/night/296.png infortainment/Assets/weather/64x64/night/299.png infortainment/Assets/weather/64x64/night/302.png infortainment/Assets/weather/64x64/night/305.png infortainment/Assets/weather/64x64/night/308.png infortainment/Assets/weather/64x64/night/311.png infortainment/Assets/weather/64x64/night/314.png infortainment/Assets/weather/64x64/night/317.png infortainment/Assets/weather/64x64/night/320.png infortainment/Assets/weather/64x64/night/323.png infortainment/Assets/weather/64x64/night/326.png infortainment/Assets/weather/64x64/night/329.png infortainment/Assets/weather/64x64/night/332.png infortainment/Assets/weather/64x64/night/335.png infortainment/Assets/weather/64x64/night/338.png infortainment/Assets/weather/64x64/night/350.png infortainment/Assets/weather/64x64/night/353.png infortainment/Assets/weather/64x64/night/356.png infortainment/Assets/weather/64x64/night/359.png infortainment/Assets/weather/64x64/night/362.png infortainment/Assets/weather/64x64/night/365.png infortainment/Assets/weather/64x64/night/368.png infortainment/Assets/weather/64x64/night/371.png infortainment/Assets/weather/64x64/night/374.png infortainment/Assets/weather/64x64/night/377.png infortainment/Assets/weather/64x64/night/386.png infortainment/Assets/weather/64x64/night/389.png infortainment/Assets/weather/64x64/night/392.png infortainment/Assets/weather/64x64/night/395.png
 
 
 #############################################
@@ -508,7 +516,7 @@ build .rcc/qmlcache/appinfortainment_IconButton_qml.cpp .rcc/qmlcache/appinforta
 #############################################
 # Custom command for .qt/rcc/qrc_appinfortainment_raw_qml_0.cpp
 
-build .qt/rcc/qrc_appinfortainment_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appinfortainment_raw_qml_0.cpp: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Main.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Bottom.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Right.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Left.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Controllers.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/AudioControl.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/IconButton.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/lock.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/car.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/unlockk.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/caricon.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/un.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/caricc.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/person.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/search.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/vollow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/volmid.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/mute.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/newcar.jpg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/fan.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/inflow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/outflow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/seat.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/seat1.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/defrost.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/heater.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cloud.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/phone.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/battery.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/headlights.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/tirepressure.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/camera.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/CruiseSetting.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/microphone.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/power.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/SpeedLimit.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/steeringwheel.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/Group.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/scale.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/Group.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/scale.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/Vector9.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/headlights.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-1.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/model3-1_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-2.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-2_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/model3_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/hood.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/power_dark.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/trunk.png .qt/rcc/appinfortainment_raw_qml_0.qrc /home/6.8.1/gcc_64/libexec/rcc || appinfortainment_autogen appinfortainment_autogen_timestamp_deps appinfortainment_tooling
+build .qt/rcc/qrc_appinfortainment_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appinfortainment_raw_qml_0.cpp: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Main.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Bottom.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Right.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Left.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Controllers.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/AudioControl.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/IconButton.qml /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/lock.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/car.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/unlockk.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/caricon.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/un.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/caricc.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/person.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/search.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/vollow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/volmid.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/mute.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/newcar.jpg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/fan.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/inflow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/outflow.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/seat.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/seat1.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/defrost.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/heater.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cloud.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/phone.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/battery.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/headlights.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/tirepressure.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/camera.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/CruiseSetting.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/microphone.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/power.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/SpeedLimit.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/steeringwheel.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/Group.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/dark/scale.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/Group.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/minus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/plus.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/light/scale.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/cars/Vector9.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/headlights.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-1.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/model3-1_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-2.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3-2_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/Model3.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Cars/model3_new.svg /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/hood.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/power_dark.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/trunk.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/113.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/116.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/119.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/122.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/143.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/176.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/179.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/182.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/185.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/200.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/227.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/230.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/248.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/260.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/263.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/266.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/281.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/284.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/293.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/296.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/299.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/302.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/305.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/308.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/311.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/314.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/317.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/320.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/323.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/326.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/329.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/332.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/335.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/338.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/350.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/353.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/356.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/359.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/362.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/365.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/368.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/371.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/374.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/377.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/386.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/389.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/392.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/395.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/113.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/116.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/119.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/122.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/143.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/176.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/179.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/182.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/185.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/200.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/227.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/230.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/248.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/260.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/263.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/266.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/281.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/284.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/293.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/296.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/299.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/302.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/305.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/308.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/311.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/314.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/317.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/320.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/323.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/326.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/329.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/332.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/335.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/338.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/350.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/353.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/356.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/359.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/362.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/365.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/368.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/371.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/374.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/377.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/386.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/389.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/392.png /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/395.png .qt/rcc/appinfortainment_raw_qml_0.qrc /home/6.8.1/gcc_64/libexec/rcc || appinfortainment_autogen appinfortainment_autogen_timestamp_deps appinfortainment_tooling
   COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug && /home/6.8.1/gcc_64/libexec/rcc --output /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qrc_appinfortainment_raw_qml_0.cpp --name appinfortainment_raw_qml_0 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc --no-zstd
   DESC = Running rcc for resource appinfortainment_raw_qml_0
   restat = 1
@@ -1089,6 +1097,870 @@ build infortainment/Assets/power_dark.png | ${cmake_ninja_workdir}infortainment/
 build infortainment/Assets/trunk.png | ${cmake_ninja_workdir}infortainment/Assets/trunk.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/trunk.png
   COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/trunk.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/trunk.png
   DESC = Copying Assets/trunk.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/trunk.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/113.png
+
+build infortainment/Assets/weather/64x64/day/113.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/113.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/113.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/113.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/113.png
+  DESC = Copying Assets/weather/64x64/day/113.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/113.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/116.png
+
+build infortainment/Assets/weather/64x64/day/116.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/116.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/116.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/116.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/116.png
+  DESC = Copying Assets/weather/64x64/day/116.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/116.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/119.png
+
+build infortainment/Assets/weather/64x64/day/119.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/119.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/119.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/119.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/119.png
+  DESC = Copying Assets/weather/64x64/day/119.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/119.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/122.png
+
+build infortainment/Assets/weather/64x64/day/122.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/122.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/122.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/122.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/122.png
+  DESC = Copying Assets/weather/64x64/day/122.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/122.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/143.png
+
+build infortainment/Assets/weather/64x64/day/143.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/143.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/143.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/143.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/143.png
+  DESC = Copying Assets/weather/64x64/day/143.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/143.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/176.png
+
+build infortainment/Assets/weather/64x64/day/176.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/176.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/176.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/176.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/176.png
+  DESC = Copying Assets/weather/64x64/day/176.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/176.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/179.png
+
+build infortainment/Assets/weather/64x64/day/179.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/179.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/179.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/179.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/179.png
+  DESC = Copying Assets/weather/64x64/day/179.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/179.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/182.png
+
+build infortainment/Assets/weather/64x64/day/182.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/182.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/182.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/182.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/182.png
+  DESC = Copying Assets/weather/64x64/day/182.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/182.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/185.png
+
+build infortainment/Assets/weather/64x64/day/185.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/185.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/185.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/185.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/185.png
+  DESC = Copying Assets/weather/64x64/day/185.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/185.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/200.png
+
+build infortainment/Assets/weather/64x64/day/200.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/200.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/200.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/200.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/200.png
+  DESC = Copying Assets/weather/64x64/day/200.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/200.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/227.png
+
+build infortainment/Assets/weather/64x64/day/227.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/227.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/227.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/227.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/227.png
+  DESC = Copying Assets/weather/64x64/day/227.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/227.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/230.png
+
+build infortainment/Assets/weather/64x64/day/230.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/230.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/230.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/230.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/230.png
+  DESC = Copying Assets/weather/64x64/day/230.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/230.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/248.png
+
+build infortainment/Assets/weather/64x64/day/248.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/248.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/248.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/248.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/248.png
+  DESC = Copying Assets/weather/64x64/day/248.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/248.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/260.png
+
+build infortainment/Assets/weather/64x64/day/260.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/260.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/260.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/260.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/260.png
+  DESC = Copying Assets/weather/64x64/day/260.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/260.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/263.png
+
+build infortainment/Assets/weather/64x64/day/263.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/263.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/263.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/263.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/263.png
+  DESC = Copying Assets/weather/64x64/day/263.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/263.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/266.png
+
+build infortainment/Assets/weather/64x64/day/266.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/266.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/266.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/266.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/266.png
+  DESC = Copying Assets/weather/64x64/day/266.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/266.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/281.png
+
+build infortainment/Assets/weather/64x64/day/281.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/281.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/281.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/281.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/281.png
+  DESC = Copying Assets/weather/64x64/day/281.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/281.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/284.png
+
+build infortainment/Assets/weather/64x64/day/284.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/284.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/284.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/284.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/284.png
+  DESC = Copying Assets/weather/64x64/day/284.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/284.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/293.png
+
+build infortainment/Assets/weather/64x64/day/293.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/293.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/293.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/293.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/293.png
+  DESC = Copying Assets/weather/64x64/day/293.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/293.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/296.png
+
+build infortainment/Assets/weather/64x64/day/296.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/296.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/296.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/296.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/296.png
+  DESC = Copying Assets/weather/64x64/day/296.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/296.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/299.png
+
+build infortainment/Assets/weather/64x64/day/299.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/299.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/299.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/299.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/299.png
+  DESC = Copying Assets/weather/64x64/day/299.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/299.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/302.png
+
+build infortainment/Assets/weather/64x64/day/302.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/302.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/302.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/302.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/302.png
+  DESC = Copying Assets/weather/64x64/day/302.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/302.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/305.png
+
+build infortainment/Assets/weather/64x64/day/305.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/305.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/305.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/305.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/305.png
+  DESC = Copying Assets/weather/64x64/day/305.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/305.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/308.png
+
+build infortainment/Assets/weather/64x64/day/308.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/308.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/308.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/308.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/308.png
+  DESC = Copying Assets/weather/64x64/day/308.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/308.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/311.png
+
+build infortainment/Assets/weather/64x64/day/311.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/311.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/311.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/311.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/311.png
+  DESC = Copying Assets/weather/64x64/day/311.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/311.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/314.png
+
+build infortainment/Assets/weather/64x64/day/314.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/314.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/314.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/314.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/314.png
+  DESC = Copying Assets/weather/64x64/day/314.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/314.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/317.png
+
+build infortainment/Assets/weather/64x64/day/317.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/317.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/317.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/317.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/317.png
+  DESC = Copying Assets/weather/64x64/day/317.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/317.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/320.png
+
+build infortainment/Assets/weather/64x64/day/320.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/320.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/320.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/320.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/320.png
+  DESC = Copying Assets/weather/64x64/day/320.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/320.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/323.png
+
+build infortainment/Assets/weather/64x64/day/323.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/323.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/323.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/323.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/323.png
+  DESC = Copying Assets/weather/64x64/day/323.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/323.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/326.png
+
+build infortainment/Assets/weather/64x64/day/326.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/326.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/326.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/326.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/326.png
+  DESC = Copying Assets/weather/64x64/day/326.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/326.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/329.png
+
+build infortainment/Assets/weather/64x64/day/329.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/329.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/329.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/329.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/329.png
+  DESC = Copying Assets/weather/64x64/day/329.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/329.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/332.png
+
+build infortainment/Assets/weather/64x64/day/332.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/332.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/332.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/332.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/332.png
+  DESC = Copying Assets/weather/64x64/day/332.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/332.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/335.png
+
+build infortainment/Assets/weather/64x64/day/335.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/335.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/335.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/335.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/335.png
+  DESC = Copying Assets/weather/64x64/day/335.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/335.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/338.png
+
+build infortainment/Assets/weather/64x64/day/338.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/338.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/338.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/338.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/338.png
+  DESC = Copying Assets/weather/64x64/day/338.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/338.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/350.png
+
+build infortainment/Assets/weather/64x64/day/350.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/350.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/350.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/350.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/350.png
+  DESC = Copying Assets/weather/64x64/day/350.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/350.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/353.png
+
+build infortainment/Assets/weather/64x64/day/353.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/353.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/353.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/353.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/353.png
+  DESC = Copying Assets/weather/64x64/day/353.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/353.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/356.png
+
+build infortainment/Assets/weather/64x64/day/356.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/356.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/356.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/356.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/356.png
+  DESC = Copying Assets/weather/64x64/day/356.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/356.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/359.png
+
+build infortainment/Assets/weather/64x64/day/359.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/359.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/359.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/359.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/359.png
+  DESC = Copying Assets/weather/64x64/day/359.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/359.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/362.png
+
+build infortainment/Assets/weather/64x64/day/362.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/362.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/362.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/362.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/362.png
+  DESC = Copying Assets/weather/64x64/day/362.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/362.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/365.png
+
+build infortainment/Assets/weather/64x64/day/365.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/365.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/365.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/365.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/365.png
+  DESC = Copying Assets/weather/64x64/day/365.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/365.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/368.png
+
+build infortainment/Assets/weather/64x64/day/368.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/368.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/368.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/368.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/368.png
+  DESC = Copying Assets/weather/64x64/day/368.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/368.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/371.png
+
+build infortainment/Assets/weather/64x64/day/371.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/371.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/371.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/371.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/371.png
+  DESC = Copying Assets/weather/64x64/day/371.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/371.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/374.png
+
+build infortainment/Assets/weather/64x64/day/374.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/374.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/374.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/374.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/374.png
+  DESC = Copying Assets/weather/64x64/day/374.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/374.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/377.png
+
+build infortainment/Assets/weather/64x64/day/377.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/377.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/377.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/377.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/377.png
+  DESC = Copying Assets/weather/64x64/day/377.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/377.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/386.png
+
+build infortainment/Assets/weather/64x64/day/386.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/386.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/386.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/386.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/386.png
+  DESC = Copying Assets/weather/64x64/day/386.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/386.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/389.png
+
+build infortainment/Assets/weather/64x64/day/389.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/389.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/389.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/389.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/389.png
+  DESC = Copying Assets/weather/64x64/day/389.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/389.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/392.png
+
+build infortainment/Assets/weather/64x64/day/392.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/392.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/392.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/392.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/392.png
+  DESC = Copying Assets/weather/64x64/day/392.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/392.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/day/395.png
+
+build infortainment/Assets/weather/64x64/day/395.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/day/395.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/395.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/day/395.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/395.png
+  DESC = Copying Assets/weather/64x64/day/395.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/day/395.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/113.png
+
+build infortainment/Assets/weather/64x64/night/113.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/113.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/113.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/113.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/113.png
+  DESC = Copying Assets/weather/64x64/night/113.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/113.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/116.png
+
+build infortainment/Assets/weather/64x64/night/116.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/116.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/116.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/116.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/116.png
+  DESC = Copying Assets/weather/64x64/night/116.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/116.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/119.png
+
+build infortainment/Assets/weather/64x64/night/119.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/119.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/119.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/119.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/119.png
+  DESC = Copying Assets/weather/64x64/night/119.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/119.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/122.png
+
+build infortainment/Assets/weather/64x64/night/122.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/122.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/122.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/122.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/122.png
+  DESC = Copying Assets/weather/64x64/night/122.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/122.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/143.png
+
+build infortainment/Assets/weather/64x64/night/143.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/143.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/143.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/143.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/143.png
+  DESC = Copying Assets/weather/64x64/night/143.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/143.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/176.png
+
+build infortainment/Assets/weather/64x64/night/176.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/176.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/176.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/176.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/176.png
+  DESC = Copying Assets/weather/64x64/night/176.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/176.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/179.png
+
+build infortainment/Assets/weather/64x64/night/179.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/179.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/179.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/179.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/179.png
+  DESC = Copying Assets/weather/64x64/night/179.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/179.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/182.png
+
+build infortainment/Assets/weather/64x64/night/182.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/182.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/182.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/182.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/182.png
+  DESC = Copying Assets/weather/64x64/night/182.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/182.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/185.png
+
+build infortainment/Assets/weather/64x64/night/185.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/185.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/185.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/185.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/185.png
+  DESC = Copying Assets/weather/64x64/night/185.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/185.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/200.png
+
+build infortainment/Assets/weather/64x64/night/200.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/200.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/200.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/200.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/200.png
+  DESC = Copying Assets/weather/64x64/night/200.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/200.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/227.png
+
+build infortainment/Assets/weather/64x64/night/227.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/227.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/227.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/227.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/227.png
+  DESC = Copying Assets/weather/64x64/night/227.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/227.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/230.png
+
+build infortainment/Assets/weather/64x64/night/230.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/230.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/230.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/230.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/230.png
+  DESC = Copying Assets/weather/64x64/night/230.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/230.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/248.png
+
+build infortainment/Assets/weather/64x64/night/248.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/248.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/248.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/248.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/248.png
+  DESC = Copying Assets/weather/64x64/night/248.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/248.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/260.png
+
+build infortainment/Assets/weather/64x64/night/260.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/260.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/260.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/260.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/260.png
+  DESC = Copying Assets/weather/64x64/night/260.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/260.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/263.png
+
+build infortainment/Assets/weather/64x64/night/263.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/263.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/263.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/263.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/263.png
+  DESC = Copying Assets/weather/64x64/night/263.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/263.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/266.png
+
+build infortainment/Assets/weather/64x64/night/266.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/266.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/266.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/266.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/266.png
+  DESC = Copying Assets/weather/64x64/night/266.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/266.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/281.png
+
+build infortainment/Assets/weather/64x64/night/281.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/281.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/281.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/281.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/281.png
+  DESC = Copying Assets/weather/64x64/night/281.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/281.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/284.png
+
+build infortainment/Assets/weather/64x64/night/284.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/284.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/284.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/284.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/284.png
+  DESC = Copying Assets/weather/64x64/night/284.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/284.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/293.png
+
+build infortainment/Assets/weather/64x64/night/293.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/293.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/293.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/293.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/293.png
+  DESC = Copying Assets/weather/64x64/night/293.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/293.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/296.png
+
+build infortainment/Assets/weather/64x64/night/296.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/296.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/296.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/296.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/296.png
+  DESC = Copying Assets/weather/64x64/night/296.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/296.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/299.png
+
+build infortainment/Assets/weather/64x64/night/299.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/299.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/299.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/299.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/299.png
+  DESC = Copying Assets/weather/64x64/night/299.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/299.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/302.png
+
+build infortainment/Assets/weather/64x64/night/302.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/302.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/302.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/302.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/302.png
+  DESC = Copying Assets/weather/64x64/night/302.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/302.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/305.png
+
+build infortainment/Assets/weather/64x64/night/305.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/305.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/305.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/305.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/305.png
+  DESC = Copying Assets/weather/64x64/night/305.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/305.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/308.png
+
+build infortainment/Assets/weather/64x64/night/308.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/308.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/308.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/308.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/308.png
+  DESC = Copying Assets/weather/64x64/night/308.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/308.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/311.png
+
+build infortainment/Assets/weather/64x64/night/311.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/311.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/311.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/311.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/311.png
+  DESC = Copying Assets/weather/64x64/night/311.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/311.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/314.png
+
+build infortainment/Assets/weather/64x64/night/314.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/314.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/314.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/314.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/314.png
+  DESC = Copying Assets/weather/64x64/night/314.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/314.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/317.png
+
+build infortainment/Assets/weather/64x64/night/317.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/317.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/317.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/317.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/317.png
+  DESC = Copying Assets/weather/64x64/night/317.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/317.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/320.png
+
+build infortainment/Assets/weather/64x64/night/320.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/320.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/320.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/320.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/320.png
+  DESC = Copying Assets/weather/64x64/night/320.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/320.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/323.png
+
+build infortainment/Assets/weather/64x64/night/323.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/323.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/323.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/323.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/323.png
+  DESC = Copying Assets/weather/64x64/night/323.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/323.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/326.png
+
+build infortainment/Assets/weather/64x64/night/326.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/326.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/326.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/326.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/326.png
+  DESC = Copying Assets/weather/64x64/night/326.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/326.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/329.png
+
+build infortainment/Assets/weather/64x64/night/329.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/329.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/329.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/329.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/329.png
+  DESC = Copying Assets/weather/64x64/night/329.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/329.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/332.png
+
+build infortainment/Assets/weather/64x64/night/332.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/332.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/332.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/332.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/332.png
+  DESC = Copying Assets/weather/64x64/night/332.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/332.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/335.png
+
+build infortainment/Assets/weather/64x64/night/335.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/335.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/335.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/335.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/335.png
+  DESC = Copying Assets/weather/64x64/night/335.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/335.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/338.png
+
+build infortainment/Assets/weather/64x64/night/338.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/338.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/338.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/338.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/338.png
+  DESC = Copying Assets/weather/64x64/night/338.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/338.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/350.png
+
+build infortainment/Assets/weather/64x64/night/350.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/350.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/350.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/350.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/350.png
+  DESC = Copying Assets/weather/64x64/night/350.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/350.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/353.png
+
+build infortainment/Assets/weather/64x64/night/353.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/353.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/353.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/353.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/353.png
+  DESC = Copying Assets/weather/64x64/night/353.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/353.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/356.png
+
+build infortainment/Assets/weather/64x64/night/356.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/356.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/356.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/356.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/356.png
+  DESC = Copying Assets/weather/64x64/night/356.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/356.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/359.png
+
+build infortainment/Assets/weather/64x64/night/359.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/359.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/359.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/359.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/359.png
+  DESC = Copying Assets/weather/64x64/night/359.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/359.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/362.png
+
+build infortainment/Assets/weather/64x64/night/362.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/362.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/362.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/362.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/362.png
+  DESC = Copying Assets/weather/64x64/night/362.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/362.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/365.png
+
+build infortainment/Assets/weather/64x64/night/365.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/365.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/365.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/365.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/365.png
+  DESC = Copying Assets/weather/64x64/night/365.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/365.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/368.png
+
+build infortainment/Assets/weather/64x64/night/368.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/368.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/368.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/368.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/368.png
+  DESC = Copying Assets/weather/64x64/night/368.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/368.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/371.png
+
+build infortainment/Assets/weather/64x64/night/371.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/371.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/371.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/371.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/371.png
+  DESC = Copying Assets/weather/64x64/night/371.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/371.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/374.png
+
+build infortainment/Assets/weather/64x64/night/374.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/374.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/374.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/374.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/374.png
+  DESC = Copying Assets/weather/64x64/night/374.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/374.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/377.png
+
+build infortainment/Assets/weather/64x64/night/377.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/377.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/377.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/377.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/377.png
+  DESC = Copying Assets/weather/64x64/night/377.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/377.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/386.png
+
+build infortainment/Assets/weather/64x64/night/386.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/386.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/386.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/386.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/386.png
+  DESC = Copying Assets/weather/64x64/night/386.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/386.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/389.png
+
+build infortainment/Assets/weather/64x64/night/389.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/389.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/389.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/389.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/389.png
+  DESC = Copying Assets/weather/64x64/night/389.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/389.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/392.png
+
+build infortainment/Assets/weather/64x64/night/392.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/392.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/392.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/392.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/392.png
+  DESC = Copying Assets/weather/64x64/night/392.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/392.png
+  restat = 1
+
+
+#############################################
+# Custom command for infortainment/Assets/weather/64x64/night/395.png
+
+build infortainment/Assets/weather/64x64/night/395.png | ${cmake_ninja_workdir}infortainment/Assets/weather/64x64/night/395.png: CUSTOM_COMMAND /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/395.png
+  COMMAND = cd /home/adin.n@acsiatech.com/QTWorks/infortainment && /home/Tools/CMake/bin/cmake -E copy /home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/395.png /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/395.png
+  DESC = Copying Assets/weather/64x64/night/395.png to /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment/Assets/weather/64x64/night/395.png
   restat = 1
 
 

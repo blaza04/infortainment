@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 285,
+                        "durationMicroseconds": 301,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 263,
+                        "durationMicroseconds": 285,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 181,
+                        "durationMicroseconds": 245,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 9
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 177,
+                        "durationMicroseconds": 3294,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 10
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 92,
+                        "durationMicroseconds": 155,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 16
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 60,
+                        "durationMicroseconds": 67,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "onClicked",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 22
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 14,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 45,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "text",
                         "line": 38
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 227,
+                        "durationMicroseconds": 288,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 32
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 201,
+                        "durationMicroseconds": 238,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 34
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 209,
+                        "durationMicroseconds": 237,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 49
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 200,
+                        "durationMicroseconds": 240,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 44
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 223,
+                        "durationMicroseconds": 258,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 193,
+                        "durationMicroseconds": 254,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 46
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 183,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 53
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 93,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "onClicked",
                         "line": 61
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 7290,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 59

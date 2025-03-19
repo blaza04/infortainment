@@ -1,9 +1,27 @@
 appinfortainment_autogen/timestamp: \
+	/home/6.8.1/gcc_64/include/QtCore/QDebug \
+	/home/6.8.1/gcc_64/include/QtCore/QFlags \
+	/home/6.8.1/gcc_64/include/QtCore/QIODevice \
+	/home/6.8.1/gcc_64/include/QtCore/QJsonArray \
+	/home/6.8.1/gcc_64/include/QtCore/QJsonDocument \
+	/home/6.8.1/gcc_64/include/QtCore/QJsonObject \
+	/home/6.8.1/gcc_64/include/QtCore/QList \
+	/home/6.8.1/gcc_64/include/QtCore/QMap \
+	/home/6.8.1/gcc_64/include/QtCore/QMetaType \
 	/home/6.8.1/gcc_64/include/QtCore/QObject \
+	/home/6.8.1/gcc_64/include/QtCore/QSharedDataPointer \
+	/home/6.8.1/gcc_64/include/QtCore/QString \
+	/home/6.8.1/gcc_64/include/QtCore/QStringList \
 	/home/6.8.1/gcc_64/include/QtCore/QTimer \
+	/home/6.8.1/gcc_64/include/QtCore/QUrl \
+	/home/6.8.1/gcc_64/include/QtCore/QVariant \
+	/home/6.8.1/gcc_64/include/QtCore/QtTypes \
 	/home/6.8.1/gcc_64/include/QtCore/q20functional.h \
+	/home/6.8.1/gcc_64/include/QtCore/q20iterator.h \
 	/home/6.8.1/gcc_64/include/QtCore/q20memory.h \
 	/home/6.8.1/gcc_64/include/QtCore/q20type_traits.h \
+	/home/6.8.1/gcc_64/include/QtCore/q23utility.h \
+	/home/6.8.1/gcc_64/include/QtCore/q26numeric.h \
 	/home/6.8.1/gcc_64/include/QtCore/qalgorithms.h \
 	/home/6.8.1/gcc_64/include/QtCore/qanystringview.h \
 	/home/6.8.1/gcc_64/include/QtCore/qarraydata.h \
@@ -19,6 +37,9 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qbytearrayalgorithms.h \
 	/home/6.8.1/gcc_64/include/QtCore/qbytearraylist.h \
 	/home/6.8.1/gcc_64/include/QtCore/qbytearrayview.h \
+	/home/6.8.1/gcc_64/include/QtCore/qcalendar.h \
+	/home/6.8.1/gcc_64/include/QtCore/qcborcommon.h \
+	/home/6.8.1/gcc_64/include/QtCore/qcborvalue.h \
 	/home/6.8.1/gcc_64/include/QtCore/qchar.h \
 	/home/6.8.1/gcc_64/include/QtCore/qcompare.h \
 	/home/6.8.1/gcc_64/include/QtCore/qcompare_impl.h \
@@ -29,8 +50,13 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qcontainerfwd.h \
 	/home/6.8.1/gcc_64/include/QtCore/qcontainerinfo.h \
 	/home/6.8.1/gcc_64/include/QtCore/qcontainertools_impl.h \
+	/home/6.8.1/gcc_64/include/QtCore/qcontiguouscache.h \
+	/home/6.8.1/gcc_64/include/QtCore/qcryptographichash.h \
 	/home/6.8.1/gcc_64/include/QtCore/qdarwinhelpers.h \
 	/home/6.8.1/gcc_64/include/QtCore/qdatastream.h \
+	/home/6.8.1/gcc_64/include/QtCore/qdatetime.h \
+	/home/6.8.1/gcc_64/include/QtCore/qdebug.h \
+	/home/6.8.1/gcc_64/include/QtCore/qendian.h \
 	/home/6.8.1/gcc_64/include/QtCore/qexceptionhandling.h \
 	/home/6.8.1/gcc_64/include/QtCore/qflags.h \
 	/home/6.8.1/gcc_64/include/QtCore/qfloat16.h \
@@ -40,14 +66,22 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qgenericatomic.h \
 	/home/6.8.1/gcc_64/include/QtCore/qglobal.h \
 	/home/6.8.1/gcc_64/include/QtCore/qglobalstatic.h \
+	/home/6.8.1/gcc_64/include/QtCore/qhash.h \
 	/home/6.8.1/gcc_64/include/QtCore/qhashfunctions.h \
+	/home/6.8.1/gcc_64/include/QtCore/qiodevice.h \
 	/home/6.8.1/gcc_64/include/QtCore/qiodevicebase.h \
 	/home/6.8.1/gcc_64/include/QtCore/qiterable.h \
 	/home/6.8.1/gcc_64/include/QtCore/qiterator.h \
+	/home/6.8.1/gcc_64/include/QtCore/qjsonarray.h \
+	/home/6.8.1/gcc_64/include/QtCore/qjsondocument.h \
+	/home/6.8.1/gcc_64/include/QtCore/qjsonobject.h \
+	/home/6.8.1/gcc_64/include/QtCore/qjsonvalue.h \
 	/home/6.8.1/gcc_64/include/QtCore/qlatin1stringview.h \
 	/home/6.8.1/gcc_64/include/QtCore/qlist.h \
+	/home/6.8.1/gcc_64/include/QtCore/qlocale.h \
 	/home/6.8.1/gcc_64/include/QtCore/qlogging.h \
 	/home/6.8.1/gcc_64/include/QtCore/qmalloc.h \
+	/home/6.8.1/gcc_64/include/QtCore/qmap.h \
 	/home/6.8.1/gcc_64/include/QtCore/qmath.h \
 	/home/6.8.1/gcc_64/include/QtCore/qmetacontainer.h \
 	/home/6.8.1/gcc_64/include/QtCore/qmetatype.h \
@@ -62,8 +96,15 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qpair.h \
 	/home/6.8.1/gcc_64/include/QtCore/qprocessordetection.h \
 	/home/6.8.1/gcc_64/include/QtCore/qrefcount.h \
+	/home/6.8.1/gcc_64/include/QtCore/qregularexpression.h \
 	/home/6.8.1/gcc_64/include/QtCore/qscopedpointer.h \
 	/home/6.8.1/gcc_64/include/QtCore/qscopeguard.h \
+	/home/6.8.1/gcc_64/include/QtCore/qset.h \
+	/home/6.8.1/gcc_64/include/QtCore/qshareddata.h \
+	/home/6.8.1/gcc_64/include/QtCore/qshareddata_impl.h \
+	/home/6.8.1/gcc_64/include/QtCore/qsharedpointer.h \
+	/home/6.8.1/gcc_64/include/QtCore/qsharedpointer_impl.h \
+	/home/6.8.1/gcc_64/include/QtCore/qspan.h \
 	/home/6.8.1/gcc_64/include/QtCore/qstring.h \
 	/home/6.8.1/gcc_64/include/QtCore/qstringalgorithms.h \
 	/home/6.8.1/gcc_64/include/QtCore/qstringbuilder.h \
@@ -87,6 +128,7 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qtdeprecationdefinitions.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtdeprecationmarkers.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtenvironmentvariables.h \
+	/home/6.8.1/gcc_64/include/QtCore/qtextstream.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtimer.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtmetamacros.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtnoop.h \
@@ -98,10 +140,35 @@ appinfortainment_autogen/timestamp: \
 	/home/6.8.1/gcc_64/include/QtCore/qtversionchecks.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtypeinfo.h \
 	/home/6.8.1/gcc_64/include/QtCore/qtypes.h \
+	/home/6.8.1/gcc_64/include/QtCore/qurl.h \
 	/home/6.8.1/gcc_64/include/QtCore/qutf8stringview.h \
+	/home/6.8.1/gcc_64/include/QtCore/quuid.h \
+	/home/6.8.1/gcc_64/include/QtCore/qvariant.h \
+	/home/6.8.1/gcc_64/include/QtCore/qvarlengtharray.h \
 	/home/6.8.1/gcc_64/include/QtCore/qversiontagging.h \
 	/home/6.8.1/gcc_64/include/QtCore/qxptype_traits.h \
 	/home/6.8.1/gcc_64/include/QtCore/qyieldcpu.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/QNetworkAccessManager \
+	/home/6.8.1/gcc_64/include/QtNetwork/QNetworkReply \
+	/home/6.8.1/gcc_64/include/QtNetwork/QNetworkRequest \
+	/home/6.8.1/gcc_64/include/QtNetwork/QSslConfiguration \
+	/home/6.8.1/gcc_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+	/home/6.8.1/gcc_64/include/QtNetwork/qabstractsocket.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qhostaddress.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qhttpheaders.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qnetworkaccessmanager.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qnetworkreply.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qnetworkrequest.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qssl.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qsslcertificate.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qsslconfiguration.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qsslerror.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qsslsocket.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qtcpsocket.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qtnetwork-config.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qtnetworkexports.h \
+	/home/6.8.1/gcc_64/include/QtNetwork/qtnetworkglobal.h \
 	/home/6.8.1/gcc_64/lib/cmake/Qt6/3rdparty/kwin/FindXKB.cmake \
 	/home/6.8.1/gcc_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	/home/6.8.1/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake \
@@ -1008,6 +1075,8 @@ appinfortainment_autogen/timestamp: \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/main.cpp \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/system.cpp \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/system.h \
+	/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.cpp \
+	/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -1096,9 +1165,11 @@ appinfortainment_autogen/timestamp: \
 	/usr/include/c++/11/bits/unordered_map.h \
 	/usr/include/c++/11/bits/uses_allocator.h \
 	/usr/include/c++/11/bits/vector.tcc \
+	/usr/include/c++/11/cassert \
 	/usr/include/c++/11/cctype \
 	/usr/include/c++/11/cerrno \
 	/usr/include/c++/11/chrono \
+	/usr/include/c++/11/climits \
 	/usr/include/c++/11/clocale \
 	/usr/include/c++/11/cmath \
 	/usr/include/c++/11/cstddef \
@@ -1164,7 +1235,9 @@ appinfortainment_autogen/timestamp: \
 	/usr/include/errno.h \
 	/usr/include/features-time64.h \
 	/usr/include/features.h \
+	/usr/include/limits.h \
 	/usr/include/linux/errno.h \
+	/usr/include/linux/limits.h \
 	/usr/include/locale.h \
 	/usr/include/pthread.h \
 	/usr/include/sched.h \
@@ -1186,8 +1259,11 @@ appinfortainment_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/bits/floatn-common.h \
 	/usr/include/x86_64-linux-gnu/bits/floatn.h \
 	/usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+	/usr/include/x86_64-linux-gnu/bits/local_lim.h \
 	/usr/include/x86_64-linux-gnu/bits/locale.h \
 	/usr/include/x86_64-linux-gnu/bits/long-double.h \
+	/usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+	/usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
 	/usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
 	/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
 	/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
@@ -1232,10 +1308,12 @@ appinfortainment_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
 	/usr/include/x86_64-linux-gnu/bits/typesizes.h \
 	/usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+	/usr/include/x86_64-linux-gnu/bits/uio_lim.h \
 	/usr/include/x86_64-linux-gnu/bits/waitflags.h \
 	/usr/include/x86_64-linux-gnu/bits/waitstatus.h \
 	/usr/include/x86_64-linux-gnu/bits/wchar.h \
 	/usr/include/x86_64-linux-gnu/bits/wordsize.h \
+	/usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \

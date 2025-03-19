@@ -2,3 +2,4 @@
 #include "EWIEGA46WW/moc_audio.cpp"
 #include "EWIEGA46WW/moc_controller.cpp"
 #include "EWIEGA46WW/moc_system.cpp"
+#include "EWIEGA46WW/moc_wheather.cpp"

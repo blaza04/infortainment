@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 266,
+                        "durationMicroseconds": 519,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 234,
+                        "durationMicroseconds": 2603,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 189,
+                        "durationMicroseconds": 403,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 9
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 187,
+                        "durationMicroseconds": 358,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 10
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 201,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 16
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 113,
                         "errorMessage": "Cannot access value for name ctl",
                         "functionName": "onClicked",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 92,
+                        "durationMicroseconds": 203,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 22
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 42,
+                        "durationMicroseconds": 82,
                         "errorMessage": "Cannot access value for name ctl",
                         "functionName": "source",
                         "line": 37
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 148,
+                        "durationMicroseconds": 246,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 47
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 200,
+                        "durationMicroseconds": 363,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 33
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 193,
+                        "durationMicroseconds": 352,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 35
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 222,
+                        "durationMicroseconds": 365,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 57
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 195,
+                        "durationMicroseconds": 376,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 52
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 206,
+                        "durationMicroseconds": 1236,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 53
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 195,
+                        "durationMicroseconds": 387,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 54
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 61
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 91,
                         "errorMessage": "Cannot access value for name ctl",
                         "functionName": "onClicked",
                         "line": 69
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 166,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 67

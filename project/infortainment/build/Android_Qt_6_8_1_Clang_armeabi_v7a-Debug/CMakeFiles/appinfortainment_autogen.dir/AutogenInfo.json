@@ -1060,6 +1060,12 @@
 			"MU",
 			"EWIEGA46WW/moc_system.cpp",
 			null
+		],
+		[
+			"/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.h",
+			"MU",
+			"EWIEGA46WW/moc_wheather.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -1193,6 +1199,11 @@
 		],
 		[
 			"/home/adin.n@acsiatech.com/QTWorks/infortainment/system.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.cpp",
 			"MU",
 			null
 		]

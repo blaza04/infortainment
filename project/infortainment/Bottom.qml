@@ -9,59 +9,7 @@ Rectangle{
     }
     color : "black"
     height:parent.height/15
-    // RowLayout{
-    //     spacing: 20
-    //     anchors{
-    //         top:parent.top
-    //         bottom:parent.bottom
-    //         verticalCenter: parent.verticalCenter
-    //         horizontalCenter:parent.horizontalCenter
-    //         left:parent.left
-    //         right:seat1.left
-    //         leftMargin: 100
-    //     }
-    //     Image{
-    //         id:car
-    //         source:"Assets/caricc.png"
-    //         fillMode:Image.PreserveAspectFit
-    //     }
-    //     Image{
-    //         id:heater
-    //         source:"Assets/heater.svg"
 
-    //         fillMode:Image.PreserveAspectFit
-    //     }
-    //     Image{
-    //         id:defrost
-    //         source:"Assets/defrost.svg"
-    //         fillMode:Image.PreserveAspectFit
-    //     }
-    // }
-
-    // Image{
-    //     id:car
-    //     source:"Assets/caricc.png"
-    //     anchors{
-    //         left:parent.left
-    //         top:parent.top
-    //         bottom:parent.bottom
-    //         //leftMargin:100
-    //         right:heater.left
-    //     }
-    //     fillMode:Image.PreserveAspectFit
-    // }
-    // Image{
-    //     id:heater
-    //     source:"Assets/heater.svg"
-    //     anchors{
-    //         left:car.right
-    //         top:parent.top
-    //         bottom:parent.bottom
-    //         right:defrost.left
-    //         //leftMargin:80
-    //     }
-    //     fillMode:Image.PreserveAspectFit
-    // }
     Image{
         id:defrost
         source:"Assets/defrost.svg"
@@ -186,9 +134,8 @@ Rectangle{
         MouseArea{
             anchors.fill:parent
             onClicked:{
-                rightSide.wVisibility = !rightSide.wVisibility
+               rightSide.mVisibility = !rightSide.mVisibility
             }
-
         }
     }
     // Image{
