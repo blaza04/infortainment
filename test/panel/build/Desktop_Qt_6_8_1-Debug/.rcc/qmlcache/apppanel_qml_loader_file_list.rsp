@@ -7,3 +7,12 @@
 /qt/qml/panel/Left.qml
 /qt/qml/panel/Bottom.qml
 /qt/qml/panel/IconButton.qml
+/qt/qml/panel/Car.qml
+/qt/qml/panel/Settings.qml/QuickControls.qml
+/qt/qml/panel/Settings.qml/Light.qml
+/qt/qml/panel/Settings.qml/Lock.qml
+/qt/qml/panel/Settings.qml/Display.qml
+/qt/qml/panel/Settings.qml/Driving.qml
+/qt/qml/panel/Settings.qml/Autopilot.qml
+/qt/qml/panel/Settings.qml/Saftey.qml
+/qt/qml/panel/Settings.qml/Security.qml

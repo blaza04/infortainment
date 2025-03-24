@@ -5,171 +5,123 @@
                 "entries": [
                     {
                         "codegenSuccessfull": false,
-                        "column": 20,
+                        "column": 11,
                         "durationMicroseconds": 0,
-                        "errorMessage": "Cannot resolve property type  for binding on implicitWidth.",
-                        "functionName": "implicitWidth",
-                        "line": 18
+                        "errorMessage": "Cannot resolve property type  for binding on width.",
+                        "functionName": "width",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on height.",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on horizontalCenter.",
+                        "functionName": "horizontalCenter",
+                        "line": 17
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 48,
-                        "durationMicroseconds": 172,
+                        "column": 15,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
-                        "functionName": "colorGroup",
+                        "functionName": "width",
                         "line": 20
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 148,
+                        "durationMicroseconds": 172,
                         "errorMessage": "",
-                        "functionName": "width",
-                        "line": 24
+                        "functionName": "height",
+                        "line": 21
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 27,
-                        "durationMicroseconds": 95,
+                        "column": 16,
+                        "durationMicroseconds": 144,
                         "errorMessage": "",
-                        "functionName": "centerIn",
-                        "line": 23
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 21,
-                        "durationMicroseconds": 98,
-                        "errorMessage": "Cannot access value for name control",
-                        "functionName": "source",
+                        "functionName": "width",
                         "line": 28
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 22,
-                        "durationMicroseconds": 122,
+                        "column": 16,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 30
+                        "functionName": "height",
+                        "line": 29
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 25,
-                        "durationMicroseconds": 35,
+                        "column": 21,
+                        "durationMicroseconds": 41,
                         "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "implicitHeight",
+                        "functionName": "source",
                         "line": 35
                     },
                     {
-                        "codegenSuccessfull": false,
-                        "column": 24,
-                        "durationMicroseconds": 25,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "implicitWidth",
-                        "line": 36
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 17,
-                        "durationMicroseconds": 22,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "radius",
-                        "line": 37
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 16,
-                        "durationMicroseconds": 25,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "color",
-                        "line": 38
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 23,
-                        "durationMicroseconds": 26,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "width",
-                        "line": 39
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 23,
-                        "durationMicroseconds": 24,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "color",
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
                         "line": 40
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 30,
-                        "durationMicroseconds": 141,
+                        "column": 21,
+                        "durationMicroseconds": 187,
                         "errorMessage": "",
-                        "functionName": "type",
+                        "functionName": "left",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
                         "line": 43
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 416,
-                        "errorMessage": "",
-                        "functionName": "x",
-                        "line": 51
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 293,
-                        "errorMessage": "",
-                        "functionName": "y",
-                        "line": 52
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 90,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 53
-                    },
-                    {
                         "codegenSuccessfull": false,
-                        "column": 21,
-                        "durationMicroseconds": 37,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "radius",
-                        "line": 54
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 20,
-                        "durationMicroseconds": 491,
-                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "column": 19,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on color.",
                         "functionName": "color",
-                        "line": 55
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 117,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 62
+                        "line": 44
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 17,
-                        "durationMicroseconds": 34,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: control",
-                        "functionName": "to",
-                        "line": 65
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on left.",
+                        "functionName": "left",
+                        "line": 47
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 106,
-                        "errorMessage": "",
-                        "functionName": "target",
-                        "line": 69
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on verticalCenter.",
+                        "functionName": "verticalCenter",
+                        "line": 48
                     }
                 ],
                 "filepath": "/home/adin.n@acsiatech.com/QTWorks/panel/IconButton.qml"

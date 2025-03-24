@@ -6,7 +6,8 @@ import QtQuick.Controls
 Rectangle{
     signal togglevVsibility()
     property bool mVisibility : true
-
+    property bool wVisibility: true
+    property bool cVisibility: true
     id : rightSide
     color:"green"
     anchors{
@@ -187,30 +188,35 @@ Rectangle{
 
         Label{
             id:tempLabel
-             text:wheather.Condition
+            font.bold: Font.Normal
+            text:wheather.Condition
             font.pixelSize:15
             color:"white"
             anchors{
                 top:parent.top
                 left:parent.left
-                leftMargin:5
+                leftMargin:10
             }
         }
         Label{
             id:condition
-             text:wheather.Temperature + "℃"
+            text:wheather.Temperature + "℃"
+            font.family: "Montserrat"
+            font.bold: Font.Normal
             font.pixelSize:30
             color:"white"
             clip:true
             anchors{
                 top:tempLabel.bottom
                 left:parent.left
-               // right:wheather_image.left
-                leftMargin:5
+                // right:wheather_image.left
+                leftMargin:10
             }
         }
         Label{
             id:feelslike
+            font.family: "Montserrat"
+            font.bold: Font.Normal
             text:"Feels like: "+wheather.Feelslike+ "℃"
             font.pixelSize:15
             color:"white"
@@ -218,19 +224,23 @@ Rectangle{
                 top:condition.bottom
                 left:parent.left
                 bottom:place.top  //
-                leftMargin:5
+                leftMargin:10
             }
         }
 
         Label{
             id:place
+            font.family: "Montserrat"
+            font.bold: Font.Normal
             text:wheather.Location
             font.pixelSize:15
             color:"white"
             anchors{
-                leftMargin:5
+                leftMargin:10
+                bottomMargin:5
                 left:parent.left
                 bottom:parent.bottom
+
             }
         }
 
@@ -275,6 +285,7 @@ Rectangle{
     }
     Rectangle{
         id:showMusic
+        visible:rightSide.wVisibility
         color:"#0E0E0E"
         width:parent.width / 1.8
         height:parent.height /4
@@ -283,8 +294,151 @@ Rectangle{
             bottom:parent.bottom
             margins:10
         }
-        radius:20
-        visible:true
+        radius:2
+
+        Image {
+            id: track
+            source: "Assets/music/spotify.svg"
+            anchors{
+                left:parent.left
+                top:parent.top
+                bottom:parent.bottom
+            }
+            fillMode:Image.PreserveAspectFit
+        }
+        Image {
+            id: like
+            source: "Assets/music/heart.svg"
+            fillMode:Image.PreserveAspectFit
+            anchors{
+                left:track.right
+                bottom:data.top
+                top:parent.top
+            }
+        }
+        Image {
+            id: vol
+            source: "Assets/music/volume.svg"
+            fillMode:Image.PreserveAspectFit
+            anchors{
+                left:like.right
+                bottom:data.top
+                top:parent.top
+            }
+        }
+
+        Column{
+            id:data
+            spacing:2
+            anchors{
+                left:track.right
+
+                verticalCenter:parent.verticalCenter
+            }
+            Label{
+                text:"Heat Waves"
+                font.family: "Montserrat"
+                font.bold: Font.Normal
+                font.pixelSize:20
+            }
+            Label{
+                text:"Glass animals"
+                font.family: "Montserrat"
+                font.bold: Font.Normal
+            }
+            ProgressBar {
+                id: control
+                value: 0.5
+                padding: 2
+                width:parent.width
+
+                background: Rectangle{
+                    color: "#e6e6e6"
+                    radius: 3
+                }
+
+                contentItem: Item {
+                     implicitWidth: parent.width
+                     implicitHeight: 4
+
+                    // Progress indicator for determinate state.
+                    Rectangle {
+                        width: control.visualPosition * parent.width
+                        height: parent.height
+                        radius: 2
+                        color: "#17a81a"
+                        visible: !control.indeterminate
+                    }
+
+                    // Scrolling animation for indeterminate state.
+                    Item {
+                        anchors.fill: parent
+                        visible: control.indeterminate
+                        clip: true
+
+                        Row {
+                            spacing: 20
+                            Repeater {
+                                model: control.width / 40 + 1
+
+                                Rectangle {
+                                    color: "#17a81a"
+                                    width: 20
+                                    height: control.height
+                                }
+                            }
+                            XAnimator on x {
+                                from: 0
+                                to: -40
+                                loops: Animation.Infinite
+                                running: control.indeterminate
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        Row{
+            spacing:10
+            anchors{
+                 right:parent.right
+                left:data.right
+
+                verticalCenter:parent.verticalCenter
+            }
+            Image {
+                id: prev
+                source: "Assets/music/playpause.svg"
+                fillMode:Image.PreserveAspectFit
+            }
+            Image {
+                id: prev1
+                source: "Assets/music/playpause.svg"
+                fillMode:Image.PreserveAspectFit
+            }
+            Image {
+                id: prev2
+                source: "Assets/music/track.svg"
+                fillMode:Image.PreserveAspectFit
+            }
+        }
     }
 
+    // Rectangle{
+    //     color:"grey"
+    //     anchors{
+    //         left:parent.left
+    //         top:timeText.bottom
+    //         right:parent.right
+    //         bottom:showMusic.top
+    //     }
+    // }
+
+
+    Car{
+        visible:rightSide.cVisibility
+    }
 }
+
+
+

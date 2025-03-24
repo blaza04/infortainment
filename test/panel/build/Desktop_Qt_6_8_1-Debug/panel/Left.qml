@@ -260,27 +260,27 @@ Rectangle{
                 }
                 fillMode:Image.PreserveAspectFit
             }
-            IconButton{
-                id:hatch
-                height:30
-                width:50
-                setIcon:"Assets/hood.png"
-                anchors{
-                    bottom:parent.bottom
-                    right:parent.right
-                    rightMargin:30
-                }
-            }
-            IconButton{
-                id:charger
-                height:30
-                width:50
-                setIcon:"Assets/power.svg"
-                anchors{
-                    verticalCenter:parent.verticalCenter
-                    left:parent.left
-                }
-            }
+            // IconButton{
+            //     id:hatch
+            //     height:30
+            //     width:50
+            //     setIcon:"Assets/hood.png"
+            //     anchors{
+            //         bottom:parent.bottom
+            //         right:parent.right
+            //         rightMargin:30
+            //     }
+            // }
+            // IconButton{
+            //     id:charger
+            //     height:30
+            //     width:50
+            //     setIcon:"Assets/power.svg"
+            //     anchors{
+            //         verticalCenter:parent.verticalCenter
+            //         left:parent.left
+            //     }
+            // }
         }
     }
 

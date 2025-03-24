@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 4
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 11,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    }
+                ],
+                "filepath": "/home/adin.n@acsiatech.com/QTWorks/panel/Settings.qml/Light.qml"
+            }
+        ],
+        "moduleId": "panel(apppanel)"
+    }
+]

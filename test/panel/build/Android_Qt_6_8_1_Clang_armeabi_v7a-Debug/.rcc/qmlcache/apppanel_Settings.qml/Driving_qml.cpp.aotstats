@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 4
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 11,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    }
+                ],
+                "filepath": "/home/adin.n@acsiatech.com/QTWorks/panel/Settings.qml/Driving.qml"
+            }
+        ],
+        "moduleId": "panel(apppanel)"
+    }
+]
