@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 4
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 11,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    }
+                ],
+                "filepath": "/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Lock.qml"
+            }
+        ],
+        "moduleId": "infortainment(appinfortainment)"
+    }
+]

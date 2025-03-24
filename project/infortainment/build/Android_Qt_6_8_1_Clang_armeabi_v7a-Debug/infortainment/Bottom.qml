@@ -44,6 +44,12 @@ Rectangle{
             right:heater.left
         }
         fillMode:Image.PreserveAspectFit
+        MouseArea{
+            anchors.fill:parent
+            onClicked:{
+                rightSide.cVisibility = !rightSide.cVisibility
+            }
+        }
     }
 //-------------------------------------------------
     Image{
@@ -134,7 +140,7 @@ Rectangle{
         MouseArea{
             anchors.fill:parent
             onClicked:{
-               rightSide.mVisibility = !rightSide.mVisibility
+               rightSide.wVisibility = !rightSide.wVisibility
             }
         }
     }

@@ -9,3 +9,13 @@
 /qt/qml/infortainment/Controllers.qml
 /qt/qml/infortainment/AudioControl.qml
 /qt/qml/infortainment/IconButton.qml
+/qt/qml/infortainment/Settings.qml/Autopilot.qml
+/qt/qml/infortainment/Settings.qml/Display.qml
+/qt/qml/infortainment/Settings.qml/Driving.qml
+/qt/qml/infortainment/Settings.qml/Light.qml
+/qt/qml/infortainment/Settings.qml/Lock.qml
+/qt/qml/infortainment/Settings.qml/QuickControls.qml
+/qt/qml/infortainment/Settings.qml/Saftey.qml
+/qt/qml/infortainment/Settings.qml/Security.qml
+/qt/qml/infortainment/Car.qml
+/qt/qml/infortainment/LabelButton.qml

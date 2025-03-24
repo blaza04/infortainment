@@ -5,6 +5,7 @@
 #include "controller.h"
 #include "audio.h"
 #include "wheather.h"
+#include "themes.h"
 
 int main(int argc, char *argv[])
 {
@@ -26,11 +27,13 @@ int main(int argc, char *argv[])
     controller passenger ;
     audio audioctl ;
     wheather wheather;
+    Themes theme;
 
     newcontext->setContextProperty("handle",&system);
     newcontext->setContextProperty("driver",&driver);
     newcontext->setContextProperty("passenger",&passenger);
     newcontext->setContextProperty("audiohandle",&audioctl);
     newcontext->setContextProperty("wheather",&wheather);
+    newcontext->setContextProperty("Theme",&theme);
     return app.exec();
 }

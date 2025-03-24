@@ -7,6 +7,16 @@
     <file alias="Controllers.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Controllers.qml</file>
     <file alias="AudioControl.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/AudioControl.qml</file>
     <file alias="IconButton.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/IconButton.qml</file>
+    <file alias="Settings.qml/Autopilot.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Autopilot.qml</file>
+    <file alias="Settings.qml/Display.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Display.qml</file>
+    <file alias="Settings.qml/Driving.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Driving.qml</file>
+    <file alias="Settings.qml/Light.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Light.qml</file>
+    <file alias="Settings.qml/Lock.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Lock.qml</file>
+    <file alias="Settings.qml/QuickControls.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/QuickControls.qml</file>
+    <file alias="Settings.qml/Saftey.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Saftey.qml</file>
+    <file alias="Settings.qml/Security.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Security.qml</file>
+    <file alias="Car.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/Car.qml</file>
+    <file alias="LabelButton.qml">/home/adin.n@acsiatech.com/QTWorks/infortainment/LabelButton.qml</file>
     <file alias="Assets/lock.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/lock.png</file>
     <file alias="Assets/car.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/car.png</file>
     <file alias="Assets/unlockk.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/unlockk.png</file>
@@ -155,6 +165,29 @@
     <file alias="Assets/weather/64x64/night/389.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/389.png</file>
     <file alias="Assets/weather/64x64/night/392.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/392.png</file>
     <file alias="Assets/weather/64x64/night/395.png">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/weather/64x64/night/395.png</file>
+    <file alias="Assets/music/heart.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music/heart.svg</file>
+    <file alias="Assets/music/playpause.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music/playpause.svg</file>
+    <file alias="Assets/music/spotify.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music/spotify.svg</file>
+    <file alias="Assets/music/track.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music/track.svg</file>
+    <file alias="Assets/music/volume.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/music/volume.svg</file>
+    <file alias="Assets/Settings/light/display.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/display.svg</file>
+    <file alias="Assets/Settings/light/gear.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/gear.svg</file>
+    <file alias="Assets/Settings/light/lights.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/lights.svg</file>
+    <file alias="Assets/Settings/light/lock.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/lock.svg</file>
+    <file alias="Assets/Settings/light/model3-icon-small.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/model3-icon-small.svg</file>
+    <file alias="Assets/Settings/light/quickcontrols.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/quickcontrols.svg</file>
+    <file alias="Assets/Settings/light/safetyandsecurity.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/safetyandsecurity.svg</file>
+    <file alias="Assets/Settings/light/service.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/service.svg</file>
+    <file alias="Assets/Settings/light/steering-wheel-small.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/light/steering-wheel-small.svg</file>
+    <file alias="Assets/Settings/display.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/display.svg</file>
+    <file alias="Assets/Settings/gear.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/gear.svg</file>
+    <file alias="Assets/Settings/lights.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/lights.svg</file>
+    <file alias="Assets/Settings/lock.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/lock.svg</file>
+    <file alias="Assets/Settings/model3-icon-small.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/model3-icon-small.svg</file>
+    <file alias="Assets/Settings/quickcontrols.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/quickcontrols.svg</file>
+    <file alias="Assets/Settings/safetyandsecurity.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/safetyandsecurity.svg</file>
+    <file alias="Assets/Settings/service.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/service.svg</file>
+    <file alias="Assets/Settings/steering-wheel-small.svg">/home/adin.n@acsiatech.com/QTWorks/infortainment/Assets/Settings/steering-wheel-small.svg</file>
   </qresource>
 </RCC>
 

@@ -1075,6 +1075,8 @@ appinfortainment_autogen/timestamp: \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/main.cpp \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/system.cpp \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/system.h \
+	/home/adin.n@acsiatech.com/QTWorks/infortainment/themes.cpp \
+	/home/adin.n@acsiatech.com/QTWorks/infortainment/themes.h \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.cpp \
 	/home/adin.n@acsiatech.com/QTWorks/infortainment/wheather.h \
 	/usr/include/alloca.h \

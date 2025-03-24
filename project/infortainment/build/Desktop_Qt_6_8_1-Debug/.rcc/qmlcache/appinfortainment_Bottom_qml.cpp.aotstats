@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 267,
+                        "durationMicroseconds": 289,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 11
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 184,
+                        "durationMicroseconds": 201,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 6
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 14,
-                        "durationMicroseconds": 158,
+                        "durationMicroseconds": 177,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 7
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 154,
+                        "durationMicroseconds": 175,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 8
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 23
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 165,
+                        "durationMicroseconds": 6392,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 18
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 158,
+                        "durationMicroseconds": 227,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 19
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 162,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 20
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 149,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 35
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 167,
+                        "durationMicroseconds": 218,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 30
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 160,
+                        "durationMicroseconds": 224,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 31
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 181,
+                        "durationMicroseconds": 192,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 32
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 46
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 324,
+                        "durationMicroseconds": 259,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 41
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 218,
+                        "durationMicroseconds": 260,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 42
@@ -126,306 +126,338 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 241,
+                        "durationMicroseconds": 197,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 44
                     },
                     {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 7475,
+                        "errorMessage": "Cannot access value for name rightSide",
+                        "functionName": "onClicked",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 48
+                    },
+                    {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 58
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 28,
-                        "durationMicroseconds": 189,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 53
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 30,
-                        "durationMicroseconds": 268,
-                        "errorMessage": "",
-                        "functionName": "horizontalCenter",
-                        "line": 54
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 238,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 55
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 242,
-                        "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 56
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 16,
-                        "durationMicroseconds": 349,
-                        "errorMessage": "Cannot access value for name driver",
-                        "functionName": "temp",
-                        "line": 69
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 583,
-                        "errorMessage": "",
-                        "functionName": "top",
                         "line": 64
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 258,
+                        "column": 28,
+                        "durationMicroseconds": 276,
                         "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 65
+                        "functionName": "verticalCenter",
+                        "line": 59
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 228,
+                        "column": 30,
+                        "durationMicroseconds": 212,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "horizontalCenter",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 302,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "onClicked",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "fill",
                         "line": 66
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 191,
-                        "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 79
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 171,
-                        "errorMessage": "",
-                        "functionName": "right",
-                        "line": 75
-                    },
-                    {
-                        "codegenSuccessfull": true,
+                        "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 160,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "Cannot access value for name driver",
+                        "functionName": "temp",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 222,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 76
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 164,
+                        "column": 20,
+                        "durationMicroseconds": 275,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 77
                     },
                     {
-                        "codegenSuccessfull": false,
-                        "column": 16,
-                        "durationMicroseconds": 227,
-                        "errorMessage": "Cannot access value for name passenger",
-                        "functionName": "temp",
-                        "line": 90
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 78
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 186,
+                        "durationMicroseconds": 136,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 84
+                        "functionName": "fillMode",
+                        "line": 91
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 161,
+                        "column": 18,
+                        "durationMicroseconds": 197,
                         "errorMessage": "",
-                        "functionName": "top",
-                        "line": 86
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 178,
-                        "errorMessage": "",
-                        "functionName": "bottom",
+                        "functionName": "right",
                         "line": 87
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 106,
+                        "column": 16,
+                        "durationMicroseconds": 200,
                         "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 101
+                        "functionName": "top",
+                        "line": 88
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 160,
+                        "column": 19,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 295,
+                        "errorMessage": "Cannot access value for name passenger",
+                        "functionName": "temp",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 1383,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 96
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 157,
+                        "column": 17,
+                        "durationMicroseconds": 348,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 97
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 157,
-                        "errorMessage": "",
-                        "functionName": "bottom",
                         "line": 98
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 143,
                         "errorMessage": "",
                         "functionName": "fillMode",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 4353,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "top",
                         "line": 109
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 161,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 111
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 161,
+                        "column": 19,
+                        "durationMicroseconds": 217,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 112
+                        "line": 110
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 154,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 241,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 113
+                        "line": 125
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 253,
+                        "durationMicroseconds": 372,
                         "errorMessage": "Cannot access value for name rightSide",
                         "functionName": "onClicked",
-                        "line": 118
+                        "line": 130
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 131,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 117
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 106,
-                        "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 133
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 176,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 128
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 159,
-                        "errorMessage": "",
-                        "functionName": "bottom",
                         "line": 129
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 173,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 130
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 23,
-                        "durationMicroseconds": 237,
-                        "errorMessage": "Cannot access value for name rightSide",
-                        "functionName": "onClicked",
-                        "line": 136
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 26,
-                        "durationMicroseconds": 78,
-                        "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 135
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 15,
-                        "durationMicroseconds": 179,
-                        "errorMessage": "Cannot access value for name audiohandle",
-                        "functionName": "ctl",
-                        "line": 161
+                        "functionName": "fillMode",
+                        "line": 145
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 164,
+                        "durationMicroseconds": 237,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 156
+                        "line": 140
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 154,
+                        "durationMicroseconds": 221,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 157
+                        "line": 141
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 152,
+                        "durationMicroseconds": 220,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 158
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 10418,
+                        "errorMessage": "Cannot access value for name rightSide",
+                        "functionName": "onClicked",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "Cannot access value for name audiohandle",
+                        "functionName": "ctl",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 253,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 170
                     }
                 ],
                 "filepath": "/home/adin.n@acsiatech.com/QTWorks/infortainment/Bottom.qml"

@@ -4,7 +4,7 @@ import QtQuick.Controls
 
 Rectangle{
     id:leftSide
-    color:"#0E0E0E"
+    color:Theme.Istheme ? "#FFFFFF" : "#0E0E0E"
     anchors{
         bottom : botttomSide.top
         left : parent.left
@@ -14,7 +14,7 @@ Rectangle{
 
     Rectangle{
         id :top
-        color:"#0E0E0E"
+        color:Theme.Istheme ? "#FFFFFF" : "#0E0E0E"
         anchors{
             top:parent.top
             left:parent.left
@@ -35,31 +35,31 @@ Rectangle{
             Label{
                 text:"P"
                 opacity:.3
-                color:"white"
+                color:Theme.Istheme ? "black" : "#FFFFFF"
             }
 
             Label{
                 text:"N"
                 opacity:.3
-                color:"white"
+                color:Theme.Istheme ? "black" : "#FFFFFF"
             }
 
             Label{
                 text:"R"
                 opacity:.3
-                color:"white"
+                color:Theme.Istheme ? "black" : "#FFFFFF"
             }
 
             Label{
                 text:"D"
                 opacity:1
-                color:"white"
+                color:Theme.Istheme ? "black" : "#FFFFFF"
             }
         }
         Label{
             id:speed
             text:"100"
-            color:"white"
+            color:Theme.Istheme ? "black" : "#FFFFFF"
             font.pixelSize:50
             font.family: "Montserrat"
             font.bold: Font.Normal
@@ -72,7 +72,7 @@ Rectangle{
         Label{
             id:kmph
             text:"km/h"
-            color:"white"
+            color:Theme.Istheme ? "black" : "#FFFFFF"
             opacity: 0.4
             font.pixelSize: 20
             font.family: "Montserrat"
@@ -87,7 +87,7 @@ Rectangle{
         Label{
             id:battlabel
             text:"90%"
-            color:"white"
+            color:Theme.Istheme ? "black" : "#FFFFFF"
             anchors{
                 left:kmph.right
                 bottom:parent.bottom

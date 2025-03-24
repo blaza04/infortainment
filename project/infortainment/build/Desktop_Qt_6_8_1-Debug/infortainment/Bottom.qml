@@ -44,6 +44,12 @@ Rectangle{
             right:heater.left
         }
         fillMode:Image.PreserveAspectFit
+        MouseArea{
+            anchors.fill:parent
+            onClicked:{
+                rightSide.cVisibility = !rightSide.cVisibility
+            }
+        }
     }
 //-------------------------------------------------
     Image{
@@ -56,6 +62,12 @@ Rectangle{
             bottom:parent.bottom
         }
         fillMode:Image.PreserveAspectFit
+        MouseArea{
+            anchors.fill:parent
+            onClicked:{
+                Theme.setIstheme(!Theme.Istheme)
+            }
+        }
     }
 
     Controllers{
@@ -134,7 +146,7 @@ Rectangle{
         MouseArea{
             anchors.fill:parent
             onClicked:{
-               rightSide.mVisibility = !rightSide.mVisibility
+               rightSide.wVisibility = !rightSide.wVisibility
             }
         }
     }

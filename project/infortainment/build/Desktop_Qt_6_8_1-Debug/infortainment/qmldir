@@ -8,4 +8,14 @@ Left 1.0 Left.qml
 Controllers 1.0 Controllers.qml
 AudioControl 1.0 AudioControl.qml
 IconButton 1.0 IconButton.qml
+Autopilot 1.0 Settings.qml/Autopilot.qml
+Display 1.0 Settings.qml/Display.qml
+Driving 1.0 Settings.qml/Driving.qml
+Light 1.0 Settings.qml/Light.qml
+Lock 1.0 Settings.qml/Lock.qml
+QuickControls 1.0 Settings.qml/QuickControls.qml
+Saftey 1.0 Settings.qml/Saftey.qml
+Security 1.0 Settings.qml/Security.qml
+Car 1.0 Car.qml
+LabelButton 1.0 LabelButton.qml
 

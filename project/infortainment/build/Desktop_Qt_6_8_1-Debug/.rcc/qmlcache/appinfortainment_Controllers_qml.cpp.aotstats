@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 301,
+                        "durationMicroseconds": 335,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 285,
+                        "durationMicroseconds": 217,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 245,
+                        "durationMicroseconds": 188,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 9
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 3294,
+                        "durationMicroseconds": 194,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 10
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 155,
+                        "durationMicroseconds": 97,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 16
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 57,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "onClicked",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 122,
+                        "durationMicroseconds": 97,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 22
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 14,
-                        "durationMicroseconds": 45,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "text",
                         "line": 38
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 288,
+                        "durationMicroseconds": 199,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 32
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 238,
+                        "durationMicroseconds": 200,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 34
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 240,
+                        "durationMicroseconds": 203,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 44
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 258,
+                        "durationMicroseconds": 198,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 254,
+                        "durationMicroseconds": 189,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 46
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 183,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 53
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 54,
                         "errorMessage": "Cannot access value for name temp",
                         "functionName": "onClicked",
                         "line": 61
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 7290,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 59

@@ -14,5 +14,15 @@
 /home/adin.n@acsiatech.com/QTWorks/infortainment/Controllers.qml
 /home/adin.n@acsiatech.com/QTWorks/infortainment/AudioControl.qml
 /home/adin.n@acsiatech.com/QTWorks/infortainment/IconButton.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Autopilot.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Display.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Driving.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Light.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Lock.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/QuickControls.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Saftey.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Settings.qml/Security.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/Car.qml
+/home/adin.n@acsiatech.com/QTWorks/infortainment/LabelButton.qml
 --json
 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_qmllint.json
